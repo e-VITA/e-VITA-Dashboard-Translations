@@ -1,4 +1,7 @@
 {
+    "fileVersion": {
+        "version": "1.0"
+    },
     "cloudServicesTitle":"Servizi Cloud disponibili", 
     "netatmoTitle":"Piattaforma cloud Netatmo",
     "strapiTitle":"Piattaforma cloud Neu - Strapi",
@@ -45,7 +48,6 @@
     "strapiCloudServiceDescriptionBack":"Strapi fornisce API open source, self-hosting, con un CMS completamente personalizzabile, che serve dati e metadati tramite endpoint Restful.",
     "ouraringCloudServiceDescriptionFront":"Accedi alla tua area Oura ring per ottenere i dati dalla tua app connessa al tuo device.",
     "serviceDescription":"Descrizione del servizio",
-
     "updateProfileTitle":"Modifica il tuo profilo",
     "updateProfileDescription":"Inserire i campi informativi da modificare",
     "gender":"Genere",
@@ -124,5 +126,4 @@
     "devEnableError":"Errore: device non abilitato",
     "devDisableError":"Errore: device non disabilitato",
     "cloudLogoutError":"Errore: log out fallito"
-    
 }

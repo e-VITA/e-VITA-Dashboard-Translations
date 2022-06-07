@@ -1,4 +1,7 @@
 {
+    "fileVersion": {
+        "version": "1.0"
+    },
     "cloudServicesTitle":"Cloud Service verfügbar", 
     "netatmoTitle":"Netatmo Cloud Plattform",
     "strapiTitle":"Neu Cloud Plattform - Strapi",
@@ -38,7 +41,6 @@
     "delete":"Löschen",
     "close":"Schließen",
     "deleteDescription":"Wollen Sie das gewählte Gerät wirklich löschen?",
-    "deleteSpecification":"Alle Geräteinformationen, die letzte Messung im Orion Context Broker und \nalle gesammelten Messungen im Object Speicher werden vollständig gelöscht.",
     "deleteLabel":"Gerät entfernen",
     "netatmoCloudServiceDescriptionFront":"Wählen Sie Ihren Netatmo-Bereich aus, um die Daten der App, die mit Ihren Geräten verbundenen ist, abzurufen.",
     "netatmoCloudServiceDescriptionBack":"Netatmo-Produkte sind bereit, mit allen Apps und Diensten zu kommunizieren, um Ihren Vorstellungen von einem intelligenteren Zuhause zu entsprechen.",
@@ -124,5 +126,4 @@
     "devEnableError":"Fehler: Gerät nicht aktiviert",
     "devDisableError":"Fehler: Gerät nicht deaktiviert",
     "cloudLogoutError":"Fehler: Abmelden fehlgeschlagen"
-   
 }
