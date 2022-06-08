@@ -144,5 +144,9 @@
   "removeAttribute":"Supprimer l'attribut",
   "deleteAttributeTitle":"Supprimer l'attribut statique",
   "deleteAttributeDescr":"Voulez-vous supprimer l'attribut statique ?",
-  "deleteAttributeLabel":"L'attribut d'appareil sera définitivement supprimé."  
+  "deleteAttributeLabel":"L'attribut d'appareil sera définitivement supprimé.",
+  "updateDeviceName":"Modifier le nom de l'appareil",
+  "updateDeviceNameSuccess":"Nom de l'appareil mis à jour avec succès",
+  "updateDeviceNameError":"Erreur : Nom de l'appareil non mis à jour",
+  "editTile":"Modifier les attributs de l'appareil"    
 }

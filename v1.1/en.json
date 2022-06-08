@@ -144,5 +144,9 @@
     "removeAttribute":"Remove attribute",
     "deleteAttributeTitle":"Delete Static Attribute",
     "deleteAttributeDescr":"Do you confirm to delete the device attribute",
-    "deleteAttributeLabel":"The device attribute will be permanently removed." 
+    "deleteAttributeLabel":"The device attribute will be permanently removed.",
+    "updateDeviceName":"Update device name",
+    "updateDeviceNameSuccess":"Device Name successfully updated",
+    "updateDeviceNameError":"Error: Device Name not updated",
+    "editTile":"Edit Device Attributes"
 }

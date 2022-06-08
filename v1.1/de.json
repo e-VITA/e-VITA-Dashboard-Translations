@@ -144,5 +144,9 @@
     "removeAttribute":"Attribut entfernen",
     "deleteAttributeTitle":"Statisches Attribut löschen",
     "deleteAttributeDescr":"Bestätigen Sie das Löschen des Geräteattributs?",
-    "deleteAttributeLabel":"Das Geräteattribut wird dauerhaft entfernt." 
+    "deleteAttributeLabel":"Das Geräteattribut wird dauerhaft entfernt.",
+    "updateDeviceName":"Ändern Sie den Gerätenamen",
+    "updateDeviceNameSuccess":"Gerätename erfolgreich aktualisiert",
+    "updateDeviceNameError":"Fehler: Gerätename nicht aktualisiert",
+    "editTile":"Geräteattribute bearbeiten"
 }
