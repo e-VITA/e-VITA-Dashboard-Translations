@@ -135,5 +135,14 @@
   "metadataDeletionSuccess":"Attribut d'appareil supprimé avec succès",
   "metadataDeletionError":"Erreur : attribut d'appareil non supprimé",
   "metadataAdditionSuccess":"Attribut d'appareil ajouté avec succès",
-  "metadataAdditionError":"Erreur : attribut d'appareil non ajouté" 
+  "metadataAdditionError":"Erreur : attribut d'appareil non ajouté",
+  "addAttribute":"Ajouter un attribut",
+  "attributeLabel":"Attribut",
+  "nameAlert":"Veuillez utiliser un nom différent",
+  "name":"Prénom",
+  "value":"Évaluer",
+  "removeAttribute":"Supprimer l'attribut",
+  "deleteAttributeTitle":"Supprimer l'attribut statique",
+  "deleteAttributeDescr":"Voulez-vous supprimer l'attribut statique ?",
+  "deleteAttributeLabel":"L'attribut d'appareil sera définitivement supprimé."  
 }

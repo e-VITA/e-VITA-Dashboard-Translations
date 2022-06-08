@@ -135,5 +135,14 @@
     "metadataDeletionSuccess":"Attributo del dispositivo eliminato correttamente",
     "metadataDeletionError":"Errore: attributo del dispositivo non eliminato",
     "metadataAdditionSuccess":"Attributo del dispositivo aggiunto correttamente",
-    "metadataAdditionError":"Errore: attributo del dispositivo non aggiunto" 
+    "metadataAdditionError":"Errore: attributo del dispositivo non aggiunto",
+    "addAttribute":"Aggiungi attributo",
+    "attributeLabel":"Attributo",
+    "nameAlert":"Utilizza un nome diverso",
+    "name":"Nome",
+    "value":"Valore",
+    "removeAttribute":"Rimuovi attributo",
+    "deleteAttributeTitle":"Elimina Attributo Statico",
+    "deleteAttributeDescr":"Confermi di voler eliminare l'attributo statico",
+    "deleteAttributeLabel":"L'attributo del dispositivo verrà rimosso in modo permanente."
 }

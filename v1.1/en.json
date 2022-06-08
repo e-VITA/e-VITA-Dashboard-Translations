@@ -135,5 +135,14 @@
     "metadataDeletionSuccess":"Device attribute successfully deleted",
     "metadataDeletionError":"Error: device attribute not deleted",
     "metadataAdditionSuccess":"Device attribute successfully added",
-    "metadataAdditionError":"Error: device attribute not added" 
+    "metadataAdditionError":"Error: device attribute not added",
+    "addAttribute":"Add attribute",
+    "attributeLabel":"Attribute",
+    "nameAlert":"Use a different name",
+    "name":"Name",
+    "value":"Value",
+    "removeAttribute":"Remove attribute",
+    "deleteAttributeTitle":"Delete Static Attribute",
+    "deleteAttributeDescr":"Do you confirm to delete the device attribute",
+    "deleteAttributeLabel":"The device attribute will be permanently removed." 
 }

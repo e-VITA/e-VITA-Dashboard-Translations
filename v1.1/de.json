@@ -135,5 +135,14 @@
     "metadataDeletionSuccess":"Geräteattribut erfolgreich gelöscht",
     "metadataDeletionError":"Fehler: Geräteattribut nicht gelöscht",
     "metadataAdditionSuccess":"Geräteattribut erfolgreich hinzugefügt",
-    "metadataAdditionError":"Fehler: Geräteattribut nicht hinzugefügt" 
+    "metadataAdditionError":"Fehler: Geräteattribut nicht hinzugefügt",
+    "addAttribute":"Attribut hinzufügen",
+    "attributeLabel":"Attribut",
+    "nameAlert":"Verwenden Sie einen anderen Namen",
+    "name":"Vorname",
+    "value":"Wert",
+    "removeAttribute":"Attribut entfernen",
+    "deleteAttributeTitle":"Statisches Attribut löschen",
+    "deleteAttributeDescr":"Bestätigen Sie das Löschen des Geräteattributs?",
+    "deleteAttributeLabel":"Das Geräteattribut wird dauerhaft entfernt." 
 }
