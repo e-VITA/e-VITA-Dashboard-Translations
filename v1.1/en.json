@@ -160,5 +160,5 @@
     "startDateSelect":"Select a start date (mandatory)",
     "endDateSelect":"Select an end date (optional)",
     "download":"download",
-    "getHistoricalDataAlert":"Historical data not available for the device"
+    "getHistoricalDataAlert":"Historical data not present for the device on the selected dates"
 }
