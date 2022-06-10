@@ -160,5 +160,9 @@
     "startDateSelect":"Seleziona una data di inizio (obbligatorio)",
     "endDateSelect":"Seleziona una data di fine (opzionale)",
     "download":"ottieni",
-    "getHistoricalDataAlert":"Dati storici non presenti per il didpositivo nelle date selezionate"
+    "getHistoricalDataAlert":"Dati storici non presenti per il didpositivo nelle date selezionate",
+    "enableTooltip":"Abilita/Disabilita il dispositivo",
+    "detailsTooltip":"Dettagli del dispositivo",
+    "editTooltip":"Modifica attributi del dispositivo",
+    "deleteTooltip":"Elimina dispositivo"
 }

@@ -160,5 +160,9 @@
     "startDateSelect":"Select a start date (mandatory)",
     "endDateSelect":"Select an end date (optional)",
     "download":"download",
-    "getHistoricalDataAlert":"Historical data not present for the device on the selected dates"
+    "getHistoricalDataAlert":"Historical data not present for the device on the selected dates",
+    "enableTooltip":"Enable/Disable the device",
+    "detailsTooltip":"Device Details",
+    "editTooltip":"Edit device attributes",
+    "deleteTooltip":"Delete device"
 }

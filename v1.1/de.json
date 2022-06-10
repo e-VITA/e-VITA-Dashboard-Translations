@@ -160,5 +160,9 @@
     "startDateSelect":"Wählen Sie ein Startdatum (Pflichtfeld)",
     "endDateSelect":"Wählen Sie ein Enddatum (optional)",
     "download":"erhalten",
-    "getHistoricalDataAlert":"Keine historischen Daten für das Gerät an den ausgewählten Daten vorhanden"
+    "getHistoricalDataAlert":"Keine historischen Daten für das Gerät an den ausgewählten Daten vorhanden",
+    "enableTooltip":"Aktivieren/Deaktivieren Sie das Gerät",
+    "detailsTooltip":"Gerätedetails",
+    "editTooltip":"Geräteattribute ändern",
+    "deleteTooltip":"Gerät löschen"
 }
