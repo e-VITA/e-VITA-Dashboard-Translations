@@ -148,5 +148,17 @@
   "updateDeviceName":"Modifier le nom de l'appareil",
   "updateDeviceNameSuccess":"Nom de l'appareil mis à jour avec succès",
   "updateDeviceNameError":"Erreur : Nom de l'appareil non mis à jour",
-  "editTile":"Modifier les attributs de l'appareil"    
+  "editTile":"Modifier les attributs de l'appareil",
+  "getHistoricalDataSuccess":"Données historiques obtenues avec succès",
+  "getHistoricalDataError":"Erreur : données historiques non obtenues",
+  "getHistoricalData":"Obtenir des données historiques",
+  "edit":"Éditer",
+  "getHistoricalDataTitle":"Obtenir des données historiques",
+  "getHistoricalDataDescription":"Entrez une date de début et de fin pour obtenir les données historiques de l'appareil",
+  "startDate":"Date de début",
+  "endDate":"Date de fin",
+  "startDateSelect":"Sélectionnez une date de début (obligatoire)",
+  "endDateSelect":"Sélectionnez une date de fin (facultatif)",
+  "download":"télécharger",
+  "getHistoricalDataAlert":"Données historiques non disponibles pour l'appareil"   
 }

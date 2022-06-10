@@ -148,5 +148,17 @@
     "updateDeviceName":"Ändern Sie den Gerätenamen",
     "updateDeviceNameSuccess":"Gerätename erfolgreich aktualisiert",
     "updateDeviceNameError":"Fehler: Gerätename nicht aktualisiert",
-    "editTile":"Geräteattribute bearbeiten"
+    "editTile":"Geräteattribute bearbeiten",
+    "getHistoricalDataSuccess":"Verlaufsdaten erfolgreich heruntergeladen",
+    "getHistoricalDataError":"Fehler: Verlaufsdaten nicht heruntergeladen",
+    "getHistoricalData":"Laden Sie historische Daten herunter",
+    "edit":"Bearbeiten",
+    "getHistoricalDataTitle":"Erhalten Sie historische Daten",
+    "getHistoricalDataDescription":"Geben Sie Start- und Enddatum ein, um die historischen Daten des Geräts herunterzuladen",
+    "startDate":"Anfangsdatum",
+    "endDate":"Endgültiges Datum",
+    "startDateSelect":"Wählen Sie ein Startdatum (Pflichtfeld)",
+    "endDateSelect":"Wählen Sie ein Enddatum (optional)",
+    "download":"erhalten",
+    "getHistoricalDataAlert":"Historische Daten für das Gerät nicht verfügbar"
 }

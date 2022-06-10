@@ -148,5 +148,17 @@
     "updateDeviceName":"Update device name",
     "updateDeviceNameSuccess":"Device Name successfully updated",
     "updateDeviceNameError":"Error: Device Name not updated",
-    "editTile":"Edit Device Attributes"
+    "editTile":"Edit Device Attributes",
+    "getHistoricalDataSuccess":"Historical data downloaded successfully",
+    "getHistoricalDataError":"Error: historical data not downloaded",
+    "getHistoricalData":"Download historical data",
+    "edit":"Edit",
+    "getHistoricalDataTitle":"Get Historical Data",
+    "getHistoricalDataDescription":"Enter start and end date to download the historical data of the device",
+    "startDate":"Start Date",
+    "endDate":"End Date",
+    "startDateSelect":"Select a start date (mandatory)",
+    "endDateSelect":"Select an end date (optional)",
+    "download":"download",
+    "getHistoricalDataAlert":"Historical data not available for the device"
 }

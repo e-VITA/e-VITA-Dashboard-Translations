@@ -148,5 +148,17 @@
     "updateDeviceName":"Modifica il nome del device",
     "updateDeviceNameSuccess":"Nome del Dispositivo aggiornato con successo",
     "updateDeviceNameError":"Errore: Nome del Dispositivo non aggiornato",
-    "editTile":"Modifica gli Attributi del Dispositivo" 
+    "editTile":"Modifica gli Attributi del Dispositivo",
+    "getHistoricalDataSuccess":"Dati storici ottenuti con successo",
+    "getHistoricalDataError":"Errore: Dati storici non ottenuti",
+    "getHistoricalData":"Ottieni i dati storici",
+    "edit":"Edita",
+    "getHistoricalDataTitle":"Ottieni i dati storici",
+    "getHistoricalDataDescription":"Inserisci una data di inizio e fine per ottenere i dati storici del dispositivo",
+    "startDate":"Data di inizio",
+    "endDate":"Data di fine",
+    "startDateSelect":"Seleziona una data di inizio (obbligatorio)",
+    "endDateSelect":"Seleziona una data di fine (opzionale)",
+    "download":"ottieni",
+    "getHistoricalDataAlert":"Historical data not available for the device"
 }
