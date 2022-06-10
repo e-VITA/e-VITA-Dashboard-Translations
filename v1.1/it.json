@@ -164,5 +164,7 @@
     "enableTooltip":"Abilita/Disabilita il dispositivo",
     "detailsTooltip":"Dettagli del dispositivo",
     "editTooltip":"Modifica attributi del dispositivo",
-    "deleteTooltip":"Elimina dispositivo"
+    "deleteTooltip":"Elimina dispositivo",
+    "historicalDataAlert":"Non sono presenti dati storici nelle date selezionate",
+    "historicalDataAlert2":"Data di inizio inserita non valida o superiore alla data di fine"
 }

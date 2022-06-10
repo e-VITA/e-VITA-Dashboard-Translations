@@ -164,5 +164,7 @@
     "enableTooltip":"Aktivieren/Deaktivieren Sie das Gerät",
     "detailsTooltip":"Gerätedetails",
     "editTooltip":"Geräteattribute ändern",
-    "deleteTooltip":"Gerät löschen"
+    "deleteTooltip":"Gerät löschen",
+    "historicalDataAlert":"Zu den ausgewählten Daten liegen keine historischen Daten vor",
+    "historicalDataAlert2":"Ungültiges Startdatum eingegeben oder höher als das Enddatum"
 }

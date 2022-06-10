@@ -164,5 +164,7 @@
   "enableTooltip":"Activer/Désactiver l'appareil",
   "detailsTooltip":"Détails de l'appareil",
   "editTooltip":"Modifier les attributs de l'appareil",
-  "deleteTooltip":"Supprimer l'appareil"
+  "deleteTooltip":"Supprimer l'appareil",
+  "historicalDataAlert":"Il n'y a pas de données historiques sur les dates sélectionnées",
+  "historicalDataAlert2":"Date de début saisie invalide ou supérieure à la date de fin"
 }
