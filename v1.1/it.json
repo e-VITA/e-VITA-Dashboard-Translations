@@ -154,7 +154,7 @@
     "getHistoricalData":"Ottieni i dati storici",
     "edit":"Edita",
     "getHistoricalDataTitle":"Ottieni i dati storici",
-    "getHistoricalDataDescription":"Inserisci una data di inizio e fine per ottenere i dati storici del dispositivo",
+    "getHistoricalDataDescription":"Inserire una data di inizio e fine per ottenere i dati storici del dispositivo",
     "startDate":"Data di inizio",
     "endDate":"Data di fine",
     "startDateSelect":"Seleziona una data di inizio (obbligatorio)",
