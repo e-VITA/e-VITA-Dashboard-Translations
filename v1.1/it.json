@@ -159,12 +159,13 @@
     "endDate":"Data di fine",
     "startDateSelect":"Seleziona una data di inizio (obbligatorio)",
     "endDateSelect":"Seleziona una data di fine (opzionale)",
-    "download":"ottieni",
+    "download":"download",
     "getHistoricalDataAlert":"Dati storici non presenti per il didpositivo nelle date selezionate",
     "enableTooltip":"Abilita/Disabilita il dispositivo",
     "detailsTooltip":"Dettagli del dispositivo",
     "editTooltip":"Modifica attributi del dispositivo",
     "deleteTooltip":"Elimina dispositivo",
     "historicalDataAlert":"Non sono presenti dati storici nelle date selezionate",
-    "historicalDataAlert2":"Data di inizio inserita non valida o superiore alla data di fine"
+    "historicalDataAlert2":"Data di inizio inserita non valida o superiore alla data di fine",
+    "search":"Cerca"
 }

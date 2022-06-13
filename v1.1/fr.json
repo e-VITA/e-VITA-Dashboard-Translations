@@ -166,5 +166,6 @@
   "editTooltip":"Modifier les attributs de l'appareil",
   "deleteTooltip":"Supprimer l'appareil",
   "historicalDataAlert":"Il n'y a pas de données historiques sur les dates sélectionnées",
-  "historicalDataAlert2":"Date de début saisie invalide ou supérieure à la date de fin"
+  "historicalDataAlert2":"Date de début saisie invalide ou supérieure à la date de fin",
+  "search":"Chercher"
 }
