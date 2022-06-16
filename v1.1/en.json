@@ -167,5 +167,7 @@
     "deleteTooltip":"Delete device",
     "historicalDataAlert":"There is no historical data on the selected dates",
     "historicalDataAlert2":"Invalid start date entered or after the end date",
-    "search":"Search"
+    "search":"Search",
+    "chatRasaTitle":"Dialogue Manager",
+    "messagePlaceholder":"Type a message"
 }

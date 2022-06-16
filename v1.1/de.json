@@ -167,5 +167,7 @@
     "deleteTooltip":"Gerät löschen",
     "historicalDataAlert":"Zu den ausgewählten Daten liegen keine historischen Daten vor",
     "historicalDataAlert2":"Ungültiges Startdatum eingegeben oder höher als das Enddatum",
-    "search":"Suche"
+    "search":"Suche",
+    "chatRasaTitle":"Dialogue Manager",
+    "messagePlaceholder":"Nachricht schreiben"
 }
