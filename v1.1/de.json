@@ -169,5 +169,6 @@
     "historicalDataAlert2":"Ungültiges Startdatum eingegeben oder höher als das Enddatum",
     "search":"Suche",
     "chatRasaTitle":"Dialogue Manager",
-    "messagePlaceholder":"Nachricht schreiben"
+    "messagePlaceholder":"Nachricht schreiben",
+    "activateChatError":"Fehler: Chat nicht aktiviert"
 }

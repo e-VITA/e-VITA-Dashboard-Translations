@@ -169,5 +169,6 @@
   "historicalDataAlert2":"Date de début saisie invalide ou supérieure à la date de fin",
   "search":"Chercher",
   "chatRasaTitle":"Dialogue Manager",
-  "messagePlaceholder":"Ecrire un message"
+  "messagePlaceholder":"Ecrire un message",
+  "activateChatError":"Erreur : Chat non activé"
 }
