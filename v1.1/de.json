@@ -170,5 +170,6 @@
     "search":"Suche",
     "chatRasaTitle":"Dialogue Manager",
     "messagePlaceholder":"Nachricht schreiben",
-    "activateChatError":"Fehler: Chat nicht aktiviert"
+    "activateChatError":"Fehler: Chat nicht aktiviert",
+    "getAllHistoricalDataDescription":"Geben Sie ein Start- und Enddatum ein, um alle historischen Daten zu erhalten"
 }
