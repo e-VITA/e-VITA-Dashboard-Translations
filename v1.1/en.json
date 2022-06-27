@@ -171,5 +171,9 @@
     "chatRasaTitle":"Dialogue Manager",
     "messagePlaceholder":"Type a message",
     "activateChatError":"Error: Chat not activated",
-    "getAllHistoricalDataDescription":"Enter a start and end date to get all historical data"
+    "getAllHistoricalDataDescription":"Enter a start date and any other information to get all the historical data available",
+    "Historical data":"Historical data",
+    "countryInsert":"Enter the Country of interest (optional)",
+    "groupSelect":"Select the device category (optional)",
+    "typeSelect":"Select device type (optional)"
 }
