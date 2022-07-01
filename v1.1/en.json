@@ -175,5 +175,6 @@
     "Historical data":"Historical data",
     "countryInsert":"Enter the Country of interest (optional)",
     "groupSelect":"Select the device category (optional)",
-    "typeSelect":"Select device type (optional)"
+    "typeSelect":"Select device type (optional)",
+    "rasaError":"Error: Problem in receiving the response from the Dialogue Manager. Please try again later."
 }
