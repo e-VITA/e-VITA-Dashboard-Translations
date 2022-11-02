@@ -3,18 +3,6 @@
     "welcome": "Welcome to CaPe!",
     "home": "Home",
     "goToDashboard": "Go to CaPe Dashboard",
-    "login": {
-      "enter_button": "Enter",
-      "loginPopup": {
-        "authorize_account_data": "Do you authorize to use your account data?",
-        "dont_ask_again": "Don't Ask again",
-        "authorize": "Authorize",
-        "do_not_authorize": "Do not authorize",
-        "error_message": "There was an error while contacting Cape!",
-        "no_cape_account": "Sorry! No CaPe Account Associated to Your Keyrock Account! Create?",
-        "cancel_button": "Cancel"
-      }
-    },
     "services": {
       "linkServiceLabel": "Link Service to your Cape Account",
       "disableServiceLinkLabel": "Disable Service Link from your Cape Account",

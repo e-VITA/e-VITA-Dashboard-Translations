@@ -3,18 +3,6 @@
     "welcome": "Benvenuto su CaPe!",
     "home": "Home",
     "goToDashboard": "Vai alla CaPe Dashboard",
-    "login": {
-      "enter_button": "Entra",
-      "loginPopup": {
-        "authorize_account_data": "Autorizzi ad usare i dati dal tuo account?",
-        "dont_ask_again": "Non chiedermelo più",
-        "authorize": "Autorizzo",
-        "do_not_authorize": "Non autorizzo",
-        "no_cape_account": "Spiacente! Nessun Account CaPe associato al tuo account Keyrock! Crearlo?",
-        "error_message": "E' avvenuto un errore contattando Cape!",
-        "cancel_button": "Annulla"
-      }
-    },
     "services": {
       "linkServiceLabel": "Associa il Servizio al tuo Account CaPe",
       "disableServiceLinkLabel": "Disabilita il collegamento dal tuo Account CaPe",
