@@ -176,5 +176,6 @@
     "countryInsert":"Geben Sie das gewünschte Land ein (optional)",
     "groupSelect":"Wählen Sie die Gerätekategorie (optional)",
     "typeSelect":"Gerätetyp auswählen (optional)",
-    "rasaError":"Fehler: Problem beim Empfangen der Antwort vom Dialogue Manager. Bitte versuchen Sie es später erneut."
+    "rasaError":"Fehler: Problem beim Empfangen der Antwort vom Dialogue Manager. Bitte versuchen Sie es später erneut.",
+    "emailRegistration":"Registrierungs-E-Mail"
 }

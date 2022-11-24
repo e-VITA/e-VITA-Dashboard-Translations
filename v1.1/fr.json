@@ -176,5 +176,6 @@
   "countryInsert":"Entrez le pays d'intérêt (facultatif)",
   "groupSelect":"Sélectionnez la catégorie d'appareil (facultatif)",
   "typeSelect":"Sélectionnez le type d'appareil (facultatif)",
-  "rasaError":"Erreur : problème de réception de la réponse du gestionnaire de dialogue. Veuillez réessayer plus tard."
+  "rasaError":"Erreur : problème de réception de la réponse du gestionnaire de dialogue. Veuillez réessayer plus tard.",
+  "emailRegistration":"Courriel d'inscription"
 }

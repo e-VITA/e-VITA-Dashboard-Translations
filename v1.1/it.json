@@ -176,5 +176,6 @@
     "countryInsert":"Inserisci il Paese di interesse (opzionale)",
     "groupSelect":"Seleziona la categoria del dispositivo (opzionale)",
     "typeSelect":"Seleziona il tipo di dispositivo (opzionale)",
-    "rasaError":"Errore: Problema nella ricezione della risposta dal Dialogue Manager. Riprovare più tardi."
+    "rasaError":"Errore: Problema nella ricezione della risposta dal Dialogue Manager. Riprovare più tardi.",
+    "emailRegistration":"Email di Registrazione"
 }
