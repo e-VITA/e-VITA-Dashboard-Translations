@@ -1,0 +1,78 @@
+{
+    "general": {
+      "welcome": "ケープへようこそ！",
+      "home": "家",
+      "goToDashboard": "Cape ダッシュボードに移動します",
+      "services": {
+        "linkServiceLabel": "サービスを Cape アカウントに関連付ける",
+        "disableServiceLinkLabel": "Cape アカウントからのリンクを無効にする",
+        "enableServiceLinkLabel": "Cape アカウントへの接続を有効にします",
+        "giveConsentLabel": "同意する",
+        "linkingTitle": "サービスを Cape アカウントに関連付ける",
+        "linkingMessage": "サービスを接続したい<strong>{{serviceName}}</strong>",
+        "cancelButton": "キャンセル",
+        "closeButton": "近い",
+        "linkButton": "同僚",
+        "enableServiceLinkButton": "能力",
+        "closeAndReturnToOperatorButton": "閉じてケープに戻る",
+        "forceLinkingButton": "強制リンク",
+        "linkingCancelledMessage": "リンクはキャンセルされました",
+        "openCapeDashboardToLinkService": "Cape Dashboardを開いてサービスに接続する",
+        "linkingSuccessfulHeader": "Cape アカウントに関連するサービス",
+        "linkingSuccessfulMessage": "サービス {{serviceName}} ID付き: {{serviceId}} は正常にあなたの Cape アカウントに関連付けられました",
+        "enableSuccessfulMessage": "本サービスとの接続 {{serviceName}} 正常に有効化されました",
+        "disableSuccessfulMessage": "本サービスとの接続 {{serviceName}} 正常に無効化されました",
+        "operatorIdMismatch": "システム operatorId が、リンクされているサービスからのものと一致しません!'",
+        "noServiceIdOperatorLink": "CaPe からの接続時にサービス ID が指定されていません",
+        "linkingParamMismatch": "CaPe から受信したサロゲート ID、サービス ID、またはリターン URL が、送信されたものと一致しません!",
+        "askEnableServiceLink": "このサービスの Service Link は無効になっています。有効にしますか?"
+      },
+      "consent": {
+        "giveConsentLabel": "同意する",
+        "enableConsentLabel": "同意を有効にする",
+        "disableConsentLabel": "同意を無効にする",
+        "withdrawConsentLabel": "同意を取り消す",
+        "cancelButton": "キャンセル",
+        "giveConsentButton": "同意する",
+        "giveConsentSuccessful": "同意が正常に保存されました。",
+        "enableSuccessfulMessage": "同意が有効になりました",
+        "disableSuccessfulMessage": "同意が無効になりました",
+        "withdrawSuccessfulMessage": "同意が正常に取り消されました",
+        "form": {
+          "header": "データ同意",
+          "title": "データの収集と使用",
+          "body": "このサービスでは、特定の目的で一部のデータを使用することに同意が必要です。",
+          "dataMapping": "\r\n記載された目的のために同意することに同意するものを選択してください。",
+          "processing": {
+            "header": "目的と処理",
+            "purpose": "このデータは次の目的で使用されます。",
+            "categories": "処理タイプ:"
+          },
+          "shareWith": {
+            "header": "第三者との共有",
+            "body": "以下の第三者は、あなたに関する情報を受け取ります。"
+          },
+          "storage": {
+            "header": "保管所",
+            "location": "このデータは次の場所に保存されます。",
+            "duration": "データは次の期間保存されます。"
+          },
+          "contact": {
+            "header": "連絡先情報",
+            "controller": "改札係",
+            "organization": "組織",
+            "address": "住所"
+          },
+          "disclaimer": {
+            "header": "変更、取り消し、終了。",
+            "withdraw": "「あなたはいつでも同意を撤回する権利がありますが、撤回前の同意に基づく処理の合法性には影響しません。",
+            "objection": "「あなたには、修正または消去する権利、処理を制限する権利、または明示された目的のために処理に異議を唱える権利があります。",
+            "erasure": "データは、このサービスのアカウントがアクティブになるまで、またはキャンセルを明示的にリクエストするまで保持されます。"
+          },
+          "policyRef": "ポリシー参照:",
+          "additionalOptions": "追加オプション",
+          "collectionOperator": "同意がサード パーティのオペレーターによって収集される場合は、オペレーター ID (サービス プロバイダーと合意したもの) を以下に入力します。"
+        }
+      }
+    }
+  }
