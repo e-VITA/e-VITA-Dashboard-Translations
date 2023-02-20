@@ -176,5 +176,9 @@
   "countryInsert":"Entrez le pays d'intérêt (facultatif)",
   "groupSelect":"Sélectionnez la catégorie d'appareil (facultatif)",
   "typeSelect":"Sélectionnez le type d'appareil (facultatif)",
-  "rasaError":"Erreur : problème de réception de la réponse du gestionnaire de dialogue. Veuillez réessayer plus tard."
+  "rasaError":"Erreur : problème de réception de la réponse du gestionnaire de dialogue. Veuillez réessayer plus tard.",
+  "personalAccessToken":"Jeton d'accès personnel",
+  "copy":"Copier dans le presse-papier",
+  "googleDeviceInfo":"L'enregistrement d'un appareil de type Google Assistant est automatique lorsqu'une demande est faite à l'API Google webhook",
+  "selectLocation":"Sélectionnez l'emplacement"
 }
