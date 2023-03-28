@@ -1,0 +1,78 @@
+{
+    "general": {
+      "welcome": "Willkommen in Kap!",
+      "home": "Heim",
+      "goToDashboard": "Gehen Sie zum Cape-Dashboard",
+      "services": {
+        "linkServiceLabel": "Verknüpfen Sie den Dienst mit Ihrem CaPe-Konto",
+        "disableServiceLinkLabel": "Deaktivieren Sie den Link von Ihrem CaPe-Konto",
+        "enableServiceLinkLabel": "Aktivieren Sie die Verbindung zu Ihrem CaPe-Konto",
+        "giveConsentLabel": "Zustimmung geben",
+        "linkingTitle": "Verknüpfen Sie einen Dienst mit Ihrem CaPe-Konto",
+        "linkingMessage": "Sie möchten den Dienst verbinden<strong>{{serviceName}}</strong>",
+        "cancelButton": "Stornieren",
+        "closeButton": "Schließen",
+        "linkButton": "Kollege",
+        "enableServiceLinkButton": "Fähigkeit",
+        "closeAndReturnToOperatorButton": "Schließe und kehre zu Cape zurück",
+        "forceLinkingButton": "Verknüpfung erzwingen",
+        "linkingCancelledMessage": "Der Link wurde abgebrochen",
+        "openCapeDashboardToLinkService": "Öffnen Sie Cape Dashboard, um den Dienst zu verbinden",
+        "linkingSuccessfulHeader": "Mit Ihrem Cape-Konto verbundener Dienst",
+        "linkingSuccessfulMessage": "Service {{serviceName}} mit Ausweis: {{serviceId}} wurde erfolgreich mit Ihrem CaPe-Konto verknüpft",
+        "enableSuccessfulMessage": "Die Verbindung mit dem Dienst {{serviceName}} wurde erfolgreich aktiviert",
+        "disableSuccessfulMessage": "Die Verbindung mit dem Dienst {{serviceName}} wurde erfolgreich deaktiviert",
+        "operatorIdMismatch": "Die Operator-ID des Systems stimmt nicht mit der des verknüpften Dienstes überein!'",
+        "noServiceIdOperatorLink": "Beim Herstellen einer Verbindung von Cape aus wurde keine Service-ID angegeben",
+        "linkingParamMismatch": "Von CaPe erhaltene Surrogat-ID, Service-ID oder Return-Url stimmen nicht mit den gesendeten überein!",
+        "askEnableServiceLink": "Der Dienstlink für diesen Dienst ist deaktiviert, möchten Sie ihn aktivieren?"
+      },
+      "consent": {
+        "giveConsentLabel": "Zustimmung geben",
+        "enableConsentLabel": "Zustimmung aktivieren",
+        "disableConsentLabel": "Zustimmung deaktivieren",
+        "withdrawConsentLabel": "Einwilligung widerrufen",
+        "cancelButton": "Stornieren",
+        "giveConsentButton": "Zustimmung geben",
+        "giveConsentSuccessful": "Einwilligung erfolgreich gespeichert!",
+        "enableSuccessfulMessage": "Einwilligung erfolgreich aktiviert",
+        "disableSuccessfulMessage": "Einwilligung erfolgreich deaktiviert",
+        "withdrawSuccessfulMessage": "Einwilligung erfolgreich widerrufen",
+        "form": {
+          "header": "Dateneinwilligung",
+          "title": "Datenerhebung und -verwendung",
+          "body": "Der Dienst erfordert die Zustimmung, einige Daten für bestimmte Zwecke zu verwenden.",
+          "dataMapping": "\r\nWählen Sie diejenigen aus, für die Sie sich bereit erklären, Ihre Zustimmung zu den angegebenen Zwecken zu erteilen.",
+          "processing": {
+            "header": "Zwecke und Verarbeitung",
+            "purpose": "Diese Daten werden verwendet für:",
+            "categories": "Verarbeitungsart:"
+          },
+          "shareWith": {
+            "header": "Weitergabe an Dritte",
+            "body": "Die folgenden Dritten erhalten Informationen über Sie. "
+          },
+          "storage": {
+            "header": "Lagerung",
+            "location": "Diese Daten werden gespeichert in:",
+            "duration": "Die Daten werden gespeichert für die Dauer:"
+          },
+          "contact": {
+            "header": "Kontaktinformation",
+            "controller": "Fahrkarten Kontrolleur",
+            "organization": "Organisation",
+            "address": "Adresse"
+          },
+          "disclaimer": {
+            "header": "Änderung, Widerruf und Kündigung.",
+            "withdraw": "„Sie haben das Recht, eine Einwilligung jederzeit zu widerrufen, die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung wird dadurch jedoch nicht berührt.",
+            "objection": "„Sie haben das Recht auf Berichtigung oder Löschung, Einschränkung der Verarbeitung oder Widerspruch gegen die Verarbeitung zu den genannten Zwecken",
+            "erasure": "Die Daten werden aufbewahrt, bis Ihr Konto bei diesem Dienst aktiv ist oder bis Sie ausdrücklich die Kündigung verlangen."
+          },
+          "policyRef": "Richtlinienreferenz:",
+          "additionalOptions": "Zusatzoptionen",
+          "collectionOperator": "Wenn die Zustimmung von einem Drittanbieter eingeholt wird, geben Sie unten Ihre (mit dem Dienstanbieter vereinbarte) Betreiber-ID ein:"
+        }
+      }
+    }
+  }

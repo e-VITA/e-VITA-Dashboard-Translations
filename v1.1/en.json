@@ -177,5 +177,8 @@
     "groupSelect":"Select the device category (optional)",
     "typeSelect":"Select device type (optional)",
     "rasaError":"Error: Problem in receiving the response from the Dialogue Manager. Please try again later.",
-    "emailRegistration":"Registration Email"
+    "personalAccessToken":"Personal Access Token",
+    "copy":"Copy to clipboard",
+    "googleDeviceInfo":"Registration of a Google Assistant-type device is automatic when a request is made to the Google webhook API",
+    "selectLocation":"Select Location"
 }

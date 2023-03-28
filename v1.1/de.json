@@ -177,5 +177,8 @@
     "groupSelect":"Wählen Sie die Gerätekategorie (optional)",
     "typeSelect":"Gerätetyp auswählen (optional)",
     "rasaError":"Fehler: Problem beim Empfangen der Antwort vom Dialogue Manager. Bitte versuchen Sie es später erneut.",
-    "emailRegistration":"Registrierungs-E-Mail"
+    "personalAccessToken":"Persönliches Zugriffstoken",
+    "copy":"In die Zwischenablage kopieren",
+    "googleDeviceInfo":"Die Registrierung eines Geräts vom Typ Google Assistant erfolgt automatisch, wenn eine Anfrage an die Google-Webhook-API gestellt wird",
+    "selectLocation":"Ort auswählen"
 }
