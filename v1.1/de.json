@@ -403,7 +403,7 @@
   "historyOfFallsLastYearTooltip": "Anzahl der Stürze",
   "height": "Höhe (cm)",
   "weight": "Gewicht (kg)",
-  "poorSelfRatedHealth": "Schlechte selbstbewertete Gesundheit",
+  "selfRatedHealth": "Selbstbewertete Gesundheit",
   "comorbidities": "Komorbiditäten",
   "historyOfStroke": "Geschichte des Schlaganfalls",
   "hypertension": "Hypertonie",
@@ -465,5 +465,6 @@
   "coachingCycleRegisterError": "Coaching-Zyklu-Registrierungsfehler",
   "confirmSaving": "Bestätigen Sie das Speichern",
   "confirmSavingTooltip": "Die Daten in der aktuellen Tabelle wurden nicht gespeichert. ",
+  "noRepetition": "Keine Wiederholung",
   "X": "X"
 }

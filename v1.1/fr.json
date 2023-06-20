@@ -403,7 +403,7 @@
   "historyOfFallsLastYearTooltip": "nombre de chutes",
   "height": "Hauteur (cm)",
   "weight": "Poids (kg)",
-  "poorSelfRatedHealth": "Mauvaise santé auto-évaluée",
+  "selfRatedHealth": "Santé auto-évaluée",
   "comorbidities": "Comorbidités",
   "historyOfStroke": "Antécédents d'AVC",
   "hypertension": "Hypertension",
@@ -465,5 +465,6 @@
   "coachingCycleRegisterError": "Erreur de registre Cycle d'entraînement",
   "confirmSaving": "Confirmer l'enregistrement",
   "confirmSavingTooltip": "Les données du tableau actuel n'ont pas été enregistrées. ",
+  "noRepetition": "Pas de répétition",
   "X": "X"
 }

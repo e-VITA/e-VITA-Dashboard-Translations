@@ -424,7 +424,7 @@
     "historyOfFallsLastYearTooltip": "number of falls",
     "height": "Height       (cm)",
     "weight": "Weight       (kg)",
-    "poorSelfRatedHealth": "Poor Self Rated Health",
+    "selfRatedHealth": "Self Rated Health",
     "comorbidities": "Comorbidities",
     "historyOfStroke": "History Of Stroke",
     "hypertension": "Hypertension",
@@ -489,6 +489,7 @@
     "confirmSaving": "Confirm saving",
     "confirmSavingTooltip": "The data in the current table has not been saved. Do you want to save before switching tables?",
 
+    "noRepetition": "No repetition",
 
     "X":"X"
 }

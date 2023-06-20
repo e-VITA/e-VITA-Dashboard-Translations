@@ -403,7 +403,7 @@
   "historyOfFallsLastYearTooltip": "numero di cadute",
   "height": "Altezza (cm)",
   "weight": "Peso (kg)",
-  "poorSelfRatedHealth": "Scarsa salute autovalutata",
+  "selfRatedHealth": "Salute autovalutata",
   "comorbidities": "Comorbidità",
   "historyOfStroke": "Storia dell'ictus",
   "hypertension": "Ipertensione",
@@ -465,5 +465,6 @@
   "coachingCycleRegisterError": "Errore nel registro del ciclo di coaching",
   "confirmSaving": "Conferma il salvataggio",
   "confirmSavingTooltip": "I dati nella tabella corrente non sono stati salvati. ",
+  "noRepetition": "Nessuna ripetizione",
   "X": "X"
 }
