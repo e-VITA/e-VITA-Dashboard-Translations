@@ -466,7 +466,8 @@
   "confirmSaving": "Bestätigen Sie das Speichern",
   "confirmSavingTooltip": "Die Daten in der aktuellen Tabelle wurden nicht gespeichert. ",
   "noRepetition": "Keine Wiederholung",
-  "perseoExerciseRules": "Perseo-Übungsregeln",
+  "perseoExerciseRules": "Perseo Sensor-basierte Regeleinrichtung",
   "generate": "Generieren",
+  "selectCoach": "Wählen Sie Ihren Trainer aus",
   "X": "X"
 }

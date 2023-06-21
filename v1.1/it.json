@@ -466,7 +466,8 @@
   "confirmSaving": "Conferma il salvataggio",
   "confirmSavingTooltip": "I dati nella tabella corrente non sono stati salvati. ",
   "noRepetition": "Nessuna ripetizione",
-  "perseoExerciseRules": "Regole esercizio Perseo",
+  "perseoExerciseRules": "Configurazione delle regole basata su Perseo Sensor",
   "generate": "Genera",
+  "selectCoach": "Seleziona il tuo allenatore",
   "X": "X"
 }
