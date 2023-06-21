@@ -490,6 +490,8 @@
     "confirmSavingTooltip": "The data in the current table has not been saved. Do you want to save before switching tables?",
 
     "noRepetition": "No repetition",
+    "perseoExerciseRules": "Perseo exercise Rules",
+    "generate": "Generate",
 
     "X":"X"
 }

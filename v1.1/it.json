@@ -466,5 +466,7 @@
   "confirmSaving": "Conferma il salvataggio",
   "confirmSavingTooltip": "I dati nella tabella corrente non sono stati salvati. ",
   "noRepetition": "Nessuna ripetizione",
+  "perseoExerciseRules": "Regole esercizio Perseo",
+  "generate": "Genera",
   "X": "X"
 }

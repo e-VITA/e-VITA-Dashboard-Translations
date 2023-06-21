@@ -466,5 +466,7 @@
   "confirmSaving": "Bestätigen Sie das Speichern",
   "confirmSavingTooltip": "Die Daten in der aktuellen Tabelle wurden nicht gespeichert. ",
   "noRepetition": "Keine Wiederholung",
+  "perseoExerciseRules": "Perseo-Übungsregeln",
+  "generate": "Generieren",
   "X": "X"
 }
