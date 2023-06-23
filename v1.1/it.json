@@ -470,5 +470,9 @@
   "generate": "Genera",
   "selectCoach": "Seleziona il tuo allenatore",
   "X": "X",
-  "frequencyDescription":"Intervallo di tempo (Minuti) ogni quanto la piattaforma legge le misure dal cloud"
+
+  "frequencyDescription":"Intervallo di tempo (Minuti) ogni quanto la piattaforma legge le misure dal cloud",
+  "select_language_rasa": "Seleziona la lingua con la quale dialogare con il Dialogue Manager",
+  "notification_delay":"Intervallo di notifica",
+  "notification_delay_descr":"Intervallo di tempo in cui vengono controllate le notifiche ricevute"
 }

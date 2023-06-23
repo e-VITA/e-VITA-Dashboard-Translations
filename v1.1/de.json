@@ -470,5 +470,9 @@
   "generate": "Generieren",
   "selectCoach": "Wählen Sie Ihren Trainer aus",
   "X": "X",
-  "frequencyDescription":"Zeitintervall (Minuten), wie oft die Plattform die Messungen aus der Cloud liest"
+
+  "frequencyDescription":"Zeitintervall (Minuten), wie oft die Plattform die Messungen aus der Cloud liest",
+  "select_language_rasa": "Seleziona la lingua con la quale dialogare con il Dialogue Manager",
+  "notification_delay":"Verzögerung der Benachrichtigung",
+  "notification_delay_descr":"Zeitintervall, in dem eingegangene Meldungen geprüft werden"
 }

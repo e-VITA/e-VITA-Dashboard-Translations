@@ -493,5 +493,9 @@
     "generate": "Generate",
     "selectCoach": "Select your coach",
     "X":"X",
-    "frequencyDescription":"Time interval (Minutes) how ofter the platform reads measurements from the cloud"
+
+    "frequencyDescription":"Time interval (Minutes) how ofter the platform reads measurements from the cloud",
+    "select_language_rasa": "Select the language with which to talk to the Dialogue Manager",
+    "notification_delay":"Notification delay",
+    "notification_delay_descr":"Time interval in which received notifications are checked"
 }

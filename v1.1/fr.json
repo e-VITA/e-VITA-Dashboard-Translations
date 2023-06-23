@@ -470,5 +470,9 @@
   "generate": "Générer",
   "selectCoach": "Sélectionnez votre coach",
   "X": "X",
-  "frequencyDescription":"Intervalle de temps (minutes) fréquence à laquelle la plateforme lit les mesures à partir du nuage"
+
+  "frequencyDescription":"Intervalle de temps (minutes) fréquence à laquelle la plateforme lit les mesures à partir du nuage",
+  "select_language_rasa":"Sélectionnez la langue dans laquelle vous souhaitez dialoguer avec le Dialogue Manager",
+  "notification_delay":"Délai de notification",
+  "notification_delay_descr":"Intervalle de temps pendant lequel les notifications reçues sont vérifiées"
 }
