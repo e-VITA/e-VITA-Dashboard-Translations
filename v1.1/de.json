@@ -22,7 +22,7 @@
   "registerDeviceButton": "Gerät registrieren",
   "devicesLabel": "Geräte",
   "cloudServicesLabel": "Cloud Dienste",
-  "homepageLabel": "Startseite",
+  "homepageLabel": "Dashboard",
   "registerDeviceLabel": "Ein neues Gerät registrieren",
   "registerServiceLabel": "Einen neuen Service registrieren",
   "type": "Typ",
@@ -469,5 +469,6 @@
   "perseoExerciseRules": "Perseo Sensor-basierte Regeleinrichtung",
   "generate": "Generieren",
   "selectCoach": "Wählen Sie Ihren Trainer aus",
-  "X": "X"
+  "X": "X",
+  "frequencyDescription":"Zeitintervall (Minuten), wie oft die Plattform die Messungen aus der Cloud liest"
 }

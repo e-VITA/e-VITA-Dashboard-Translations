@@ -22,7 +22,7 @@
     "registerDeviceButton":"Register Device",
     "devicesLabel":"Devices",
     "cloudServicesLabel":"Cloud services",
-    "homepageLabel":"Homepage", 
+    "homepageLabel":"Dashboard", 
     "registerDeviceLabel":"Register a new device",
     "registerServiceLabel":"Register a new service",
     "type":"Type",
@@ -488,11 +488,10 @@
     "coachingCycleRegisterError": "CoachingCycle Register Error",
     "confirmSaving": "Confirm saving",
     "confirmSavingTooltip": "The data in the current table has not been saved. Do you want to save before switching tables?",
-
     "noRepetition": "No repetition",
     "perseoExerciseRules": "Perseo Sensor based rule set-up",
     "generate": "Generate",
     "selectCoach": "Select your coach",
-
-    "X":"X"
+    "X":"X",
+    "frequencyDescription":"Time interval (Minutes) how ofter the platform reads measurements from the cloud"
 }

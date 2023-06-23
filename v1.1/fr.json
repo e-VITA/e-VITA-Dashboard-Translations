@@ -22,7 +22,7 @@
   "registerDeviceButton": "Enregistrer l'appareil",
   "devicesLabel": "Appareils",
   "cloudServicesLabel": "Services cloud",
-  "homepageLabel": "Page d'accueil",
+  "homepageLabel": "Tableau de bord",
   "registerDeviceLabel": "Enregistrer un nouvel appareil",
   "registerServiceLabel": "Enregistrer un nouveau service",
   "type": "Type",
@@ -469,5 +469,6 @@
   "perseoExerciseRules": "Configuration de règles basée sur Perseo Sensor",
   "generate": "Générer",
   "selectCoach": "Sélectionnez votre coach",
-  "X": "X"
+  "X": "X",
+  "frequencyDescription":"Intervalle de temps (minutes) fréquence à laquelle la plateforme lit les mesures à partir du nuage"
 }
