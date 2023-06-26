@@ -22,7 +22,7 @@
     "registerDeviceButton":"Register Device",
     "devicesLabel":"Devices",
     "cloudServicesLabel":"Cloud services",
-    "homepageLabel":"Homepage", 
+    "homepageLabel":"Dashboard", 
     "registerDeviceLabel":"Register a new device",
     "registerServiceLabel":"Register a new service",
     "type":"Type",
@@ -110,7 +110,7 @@
     "Dashboard manual":"Dashboard manual",
     "e-VITA Devices":"e-VITA Devices",
     "Gatebox":"Gatebox",
-    "Homepage":"Homepage",
+    "Homepage":"Dashboard",
     "Devices":"Devices",
     "Cloud Services":"Cloud Services",
     "noMeasuresMessageFirst":"No measures yet present in the Context Broker",
@@ -488,7 +488,6 @@
     "coachingCycleRegisterError": "CoachingCycle Register Error",
     "confirmSaving": "Confirm saving",
     "confirmSavingTooltip": "The data in the current table has not been saved. Do you want to save before switching tables?",
-
     "noRepetition": "No repetition",
     "perseoExerciseRules": "Perseo Sensor based rule set-up",
     "generate": "Generate",
@@ -498,5 +497,8 @@
     "studyCentersCompetitionList": "List of best Study Centers",
     "countriesCompetitionList": "Best Country",
 
-    "X":"X"
+    "frequencyDescription":"Time interval (Minutes) how ofter the platform reads measurements from the cloud",
+    "select_language_rasa": "Select the language with which to talk to the Dialogue Manager",
+    "notification_delay":"Notification delay",
+    "notification_delay_descr":"Time interval in which received notifications are checked"
 }

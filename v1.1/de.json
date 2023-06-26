@@ -22,7 +22,7 @@
   "registerDeviceButton": "Gerät registrieren",
   "devicesLabel": "Geräte",
   "cloudServicesLabel": "Cloud Dienste",
-  "homepageLabel": "Startseite",
+  "homepageLabel": "Dashboard",
   "registerDeviceLabel": "Ein neues Gerät registrieren",
   "registerServiceLabel": "Einen neuen Service registrieren",
   "type": "Typ",
@@ -110,7 +110,7 @@
   "Dashboard manual": "Dashboard Handbuch",
   "e-VITA Devices": "e-VITA Geräte",
   "Gatebox": "Gatebox",
-  "Homepage": "Startseite",
+  "Homepage": "Dashboard",
   "Devices": "Geräte",
   "Cloud Services": "Cloud Dienste",
   "noMeasuresMessageFirst": "Noch keine Maßnahmen im Kontextbroker vorhanden",
@@ -469,5 +469,10 @@
   "perseoExerciseRules": "Perseo Sensor-basierte Regeleinrichtung",
   "generate": "Generieren",
   "selectCoach": "Wählen Sie Ihren Trainer aus",
-  "X": "X"
+  "X": "X",
+
+  "frequencyDescription":"Zeitintervall (Minuten), wie oft die Plattform die Messungen aus der Cloud liest",
+  "select_language_rasa": "Seleziona la lingua con la quale dialogare con il Dialogue Manager",
+  "notification_delay":"Verzögerung der Benachrichtigung",
+  "notification_delay_descr":"Zeitintervall, in dem eingegangene Meldungen geprüft werden"
 }
