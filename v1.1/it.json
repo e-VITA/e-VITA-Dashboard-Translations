@@ -469,5 +469,9 @@
   "perseoExerciseRules": "Configurazione delle regole basata su Perseo Sensor",
   "generate": "Genera",
   "selectCoach": "Seleziona il tuo allenatore",
+    
+  "usersCompetitionList": "Lista dei Migliori Utenti",
+  "studyCentersCompetitionList": "Lista dei migliori Centri di Studio",
+  "countriesCompetitionList": "Miglior Regione",
   "X": "X"
 }

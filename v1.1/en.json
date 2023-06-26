@@ -493,6 +493,10 @@
     "perseoExerciseRules": "Perseo Sensor based rule set-up",
     "generate": "Generate",
     "selectCoach": "Select your coach",
+    
+    "usersCompetitionList": "List of best Users",
+    "studyCentersCompetitionList": "List of best Study Centers",
+    "countriesCompetitionList": "Best Country",
 
     "X":"X"
 }
