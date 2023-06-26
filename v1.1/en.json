@@ -492,13 +492,14 @@
     "perseoExerciseRules": "Perseo Sensor based rule set-up",
     "generate": "Generate",
     "selectCoach": "Select your coach",
-    
-    "usersCompetitionList": "List of best Users",
-    "studyCentersCompetitionList": "List of best Study Centers",
-    "countriesCompetitionList": "Best Country",
 
     "frequencyDescription":"Time interval (Minutes) how ofter the platform reads measurements from the cloud",
     "select_language_rasa": "Select the language with which to talk to the Dialogue Manager",
     "notification_delay":"Notification delay",
-    "notification_delay_descr":"Time interval in which received notifications are checked"
+    "notification_delay_descr":"Time interval in which received notifications are checked",
+    
+    "usersCompetitionList": "List of best Users",
+    "studyCentersCompetitionList": "List of best Study Centers",
+    "countriesCompetitionList": "Best Country",
+    "loading": "Loading Data..."
 }
