@@ -481,8 +481,8 @@
   "loading": "Caricamento Dati...",
 
   "External_assistance_with_indoor_safety": "Il robot avvia il dialogo sul dominio safety",
-	"External_welcome_and_request": "Il robot avvia il dialogo sul dominio di sicurezza",
-	"External_how_are_you_today": "Il robot chiede informazioni sui sentimenti dell'utente",
+	"External_welcome_and_request": "Il robot avvia il dialogo sul dominio security",
+	"External_how_are_you_today": "Il robot chiede informazioni sulle emozioni dell'utente",
 	"EXTERNAL_How_was_your_day": "Il robot chiede informazioni sulla giornata dell'utente",
   "EXTERNAL_time_for_checking_calender": "Il robot ricorda l'appuntamento dal medico"
 }
