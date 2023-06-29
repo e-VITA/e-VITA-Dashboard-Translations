@@ -474,5 +474,11 @@
   "frequencyDescription":"Intervallo di tempo (Minuti) ogni quanto la piattaforma legge le misure dal cloud",
   "select_language_rasa": "Seleziona la lingua con la quale dialogare con il Dialogue Manager",
   "notification_delay":"Intervallo di notifica",
-  "notification_delay_descr":"Intervallo di tempo in cui vengono controllate le notifiche ricevute"
+  "notification_delay_descr":"Intervallo di tempo in cui vengono controllate le notifiche ricevute",
+
+  "External_assistance_with_indoor_safety": "Il robot avvia il dialogo sul dominio safety",
+	"External_welcome_and_request": "Il robot avvia il dialogo sul dominio di sicurezza",
+	"External_how_are_you_today": "Il robot chiede informazioni sui sentimenti dell'utente",
+	"EXTERNAL_How_was_your_day": "Il robot chiede informazioni sulla giornata dell'utente",
+    "EXTERNAL_time_for_checking_calender": "Robot dottore"
 }
