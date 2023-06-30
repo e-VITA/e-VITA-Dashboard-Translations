@@ -510,6 +510,7 @@
     "EXTERNAL_time_for_checking_calender": "Robot reminds doctor appointment",
 
     "fall_asleep_time": "Fall asleep time",
+    "wakeup_time": "Wakeup time",
         "light_sleep_time":"Light sleep time",
         "deep_sleep_time":"Deep sleep time",
         "dream_time":"Dream time",

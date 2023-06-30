@@ -487,7 +487,8 @@
   "EXTERNAL_How_was_your_day": "Le robot pose des questions sur la journée de l'utilisateur",
   "EXTERNAL_time_for_checking_calender": "Un robot rappelle un rendez-vous chez le médecin",
 
-  "fall_asleep_time": "Temps d'endormissement",
+  "fall_asleep_time": "Heure d'endormissement",
+  "wakeup_time": "Heure du réveil",
     "light_sleep_time": "Temps de sommeil léger",
     "deep_sleep_time": "Temps de sommeil profond",
     "dream_time": "Moment de rêve",

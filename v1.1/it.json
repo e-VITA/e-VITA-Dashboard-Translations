@@ -486,7 +486,8 @@
 	"EXTERNAL_How_was_your_day": "Il robot chiede informazioni sulla giornata dell'utente",
   "EXTERNAL_time_for_checking_calender": "Il robot ricorda l'appuntamento dal medico",
 
-  "fall_asleep_time": "Tempo per addormentarsi",
+  "fall_asleep_time": "Oario di addormentamento",
+  "wakeup_time": "Orario di risveglio",
     "light_sleep_time": "Tempo di sonno leggero",
     "deep_sleep_time": "Tempo di sonno profondo",
     "dream_time": "Tempo di sogno",
