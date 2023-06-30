@@ -487,6 +487,7 @@
   "EXTERNAL_How_was_your_day": "Roboter fragt nach dem Tag des Benutzers",
   "EXTERNAL_time_for_checking_calender": "Roboter erinnert an Arzttermin",
 
+  "timestamp": "Zeitstempel",
   "fall_asleep_time": "Schlafenszeit",
   "wakeup_time": "Zeit zum Aufstehen",
     "light_sleep_time": "Leichte Schlafzeit",

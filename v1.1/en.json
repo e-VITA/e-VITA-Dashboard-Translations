@@ -509,6 +509,7 @@
 	"EXTERNAL_How_was_your_day": "Robot asks about user s day",
     "EXTERNAL_time_for_checking_calender": "Robot reminds doctor appointment",
 
+    "timestamp": "Timestamp",
     "fall_asleep_time": "Fall asleep time",
     "wakeup_time": "Wakeup time",
         "light_sleep_time":"Light sleep time",
