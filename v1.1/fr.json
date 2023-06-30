@@ -485,5 +485,7 @@
   "External_welcome_and_request": "Le robot démarre une boîte de dialogue sur le domaine de sécurité",
   "External_how_are_you_today": "Le robot interroge les sentiments de l'utilisateur",
   "EXTERNAL_How_was_your_day": "Le robot pose des questions sur la journée de l'utilisateur",
-  "EXTERNAL_time_for_checking_calender": "Un robot rappelle un rendez-vous chez le médecin"
+  "EXTERNAL_time_for_checking_calender": "Un robot rappelle un rendez-vous chez le médecin",
+
+  "fall_asleep_time": "Temps d'endormissement"
 }

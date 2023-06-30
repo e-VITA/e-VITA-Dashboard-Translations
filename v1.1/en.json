@@ -507,5 +507,7 @@
 	"External_welcome_and_request": "Robot starts dialog about security domain",
 	"External_how_are_you_today": "Robot asks about user s feelings",
 	"EXTERNAL_How_was_your_day": "Robot asks about user s day",
-    "EXTERNAL_time_for_checking_calender": "Robot reminds doctor appointment"
+    "EXTERNAL_time_for_checking_calender": "Robot reminds doctor appointment",
+
+    "fall_asleep_time": "Fall asleep time"
 }
