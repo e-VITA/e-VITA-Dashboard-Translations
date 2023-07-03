@@ -498,10 +498,22 @@
     "notification_delay":"Notification delay",
     "notification_delay_descr":"Time interval in which received notifications are checked",
     
-    "usersCompetitionList": "List of best Users",
-    "studyCentersCompetitionList": "List of best Study Centers",
-    "countriesCompetitionList": "Best Country",
+    
     "loading": "Loading Data...",
+
+    "leaderboard": "Leaderboard",
+    "usersCompetition": "Users Competition",
+    "usersCompetitionList": "List of best Users",
+    "rank": "Rank",
+    "region": "Region",
+    "achievement": "Achievement",
+    "studyCentersCompetition": "Study Centers Competition",
+    "studyCentersCompetitionList": "List of best Study Centers",
+    "countriesCompetition": "Countries Competition",
+    "countriesCompetitionList": "Best Country",
+    "regionCompetition": "Region Competition",
+    "regionCompetitionResults": "Region Competition Results",
+
 
     "External_assistance_with_indoor_safety": "Robot starts dialog about safety domain",
 	"External_welcome_and_request": "Robot starts dialog about security domain",
