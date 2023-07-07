@@ -490,6 +490,7 @@
   "countriesCompetitionList": "Bestes Land",
   "regionCompetition": "Regionswettbewerb",
   "regionCompetitionResults": "Regionale Wettbewerbsergebnisse",
+  "notAvailable": "Nicht verfügbar",
 
   "External_assistance_with_indoor_safety": "Roboter startet Dialog über Sicherheitsdomäne",
   "External_welcome_and_request": "Der Roboter beginnt mit dem Dialog über die Sicherheitsdomäne",

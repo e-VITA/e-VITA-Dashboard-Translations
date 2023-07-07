@@ -489,6 +489,7 @@
   "countriesCompetitionList": "Miglior Paese",
   "regionCompetition": "Concorso Mondiale",
   "regionCompetitionResults": "Risultati del concorso Mondiale",
+  "notAvailable": "Non disponibile",
 
   "External_assistance_with_indoor_safety": "Il robot avvia il dialogo sul dominio safety",
   "External_welcome_and_request": "Il robot avvia il dialogo sul dominio security",
