@@ -181,7 +181,6 @@
   "copy": "Copia negli appunti",
   "googleDeviceInfo": "La registrazione di un dispositivo di tipo Google Assistant è automatica quando viene effettuata una richiesta all'API webhook di Google",
   "selectLocation": "Seleziona posizione",
-
   "age": "Età",
   "studyCenter": "Centro Studi",
   "emailReminder": "Promemoria e-mail",
@@ -469,14 +468,12 @@
   "perseoExerciseRules": "Configurazione delle regole basata su Perseo Sensor",
   "generate": "Genera",
   "selectCoach": "Seleziona il tuo allenatore",
-
+  "X": "X",
   "frequencyDescription": "Intervallo di tempo (Minuti) ogni quanto la piattaforma legge le misure dal cloud",
   "select_language_rasa": "Seleziona la lingua con la quale dialogare con il Dialogue Manager",
   "notification_delay": "Intervallo di notifica",
   "notification_delay_descr": "Intervallo di tempo in cui vengono controllate le notifiche ricevute",
-
   "loading": "Caricamento dati...",
-
   "leaderboard": "Classifica",
   "usersCompetition": "Concorso utenti",
   "usersCompetitionList": "Elenco dei migliori utenti",
@@ -490,13 +487,11 @@
   "regionCompetition": "Concorso Mondiale",
   "regionCompetitionResults": "Risultati del concorso Mondiale",
   "notAvailable": "Non disponibile",
-
   "External_assistance_with_indoor_safety": "Il robot avvia il dialogo sul dominio safety",
   "External_welcome_and_request": "Il robot avvia il dialogo sul dominio security",
   "External_how_are_you_today": "Il robot chiede informazioni sulle emozioni dell'utente",
   "EXTERNAL_How_was_your_day": "Il robot chiede informazioni sulla giornata dell'utente",
   "EXTERNAL_time_for_checking_calender": "Il robot ricorda l'appuntamento dal medico",
-
   "timestamp": "Timestamp",
   "fall_asleep_time": "Oario di addormentamento",
   "wakeup_time": "Orario di risveglio",

@@ -181,7 +181,6 @@
   "copy": "In die Zwischenablage kopieren",
   "googleDeviceInfo": "Die Registrierung eines Geräts vom Typ Google Assistant erfolgt automatisch, wenn eine Anfrage an die Google-Webhook-API gestellt wird",
   "selectLocation": "Ort auswählen",
-
   "age": "Alter",
   "studyCenter": "Studienzentrum",
   "emailReminder": "E-Mail-Erinnerung",
@@ -470,14 +469,11 @@
   "generate": "Generieren",
   "selectCoach": "Wählen Sie Ihren Trainer aus",
   "X": "X",
-
   "frequencyDescription": "Zeitintervall (Minuten), wie oft die Plattform die Messungen aus der Cloud liest",
   "select_language_rasa": "Seleziona la lingua con la quale dialogare con il Dialogue Manager",
   "notification_delay": "Verzögerung der Benachrichtigung",
   "notification_delay_descr": "Zeitintervall, in dem eingegangene Meldungen geprüft werden",
-
   "loading": "Daten werden geladen...",
-
   "leaderboard": "Rangliste",
   "usersCompetition": "Benutzerwettbewerb",
   "usersCompetitionList": "Liste der besten Benutzer",
@@ -491,13 +487,11 @@
   "regionCompetition": "Regionswettbewerb",
   "regionCompetitionResults": "Regionale Wettbewerbsergebnisse",
   "notAvailable": "Nicht verfügbar",
-
   "External_assistance_with_indoor_safety": "Roboter startet Dialog über Sicherheitsdomäne",
   "External_welcome_and_request": "Der Roboter beginnt mit dem Dialog über die Sicherheitsdomäne",
   "External_how_are_you_today": "Roboter fragt nach den Gefühlen des Benutzers",
   "EXTERNAL_How_was_your_day": "Roboter fragt nach dem Tag des Benutzers",
   "EXTERNAL_time_for_checking_calender": "Roboter erinnert an Arzttermin",
-
   "timestamp": "Zeitstempel",
   "fall_asleep_time": "Schlafenszeit",
   "wakeup_time": "Zeit zum Aufstehen",

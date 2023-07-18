@@ -181,7 +181,6 @@
   "copy": "Copier dans le presse-papier",
   "googleDeviceInfo": "L'enregistrement d'un appareil de type Google Assistant est automatique lorsqu'une demande est faite à l'API Google webhook",
   "selectLocation": "Sélectionnez l'emplacement",
-
   "age": "Âge",
   "studyCenter": "Centre d'études",
   "emailReminder": "Rappel par e-mail",
@@ -470,14 +469,11 @@
   "generate": "Générer",
   "selectCoach": "Sélectionnez votre coach",
   "X": "X",
-
   "frequencyDescription": "Intervalle de temps (minutes) fréquence à laquelle la plateforme lit les mesures à partir du nuage",
   "select_language_rasa": "Sélectionnez la langue dans laquelle vous souhaitez dialoguer avec le Dialogue Manager",
   "notification_delay": "Délai de notification",
   "notification_delay_descr": "Intervalle de temps pendant lequel les notifications reçues sont vérifiées",
-
   "loading": "Chargement des données...",
-
   "leaderboard": "Classement",
   "usersCompetition": "Concours Utilisateurs",
   "usersCompetitionList": "Liste des meilleurs utilisateurs",
@@ -491,13 +487,11 @@
   "regionCompetition": "Compétition régionale",
   "regionCompetitionResults": "Résultats des compétitions régionales",
   "notAvailable": " Non disponible",
-
   "External_assistance_with_indoor_safety": "Le robot démarre le dialogue sur le domaine de sécurité",
   "External_welcome_and_request": "Le robot démarre une boîte de dialogue sur le domaine de sécurité",
   "External_how_are_you_today": "Le robot interroge les sentiments de l'utilisateur",
   "EXTERNAL_How_was_your_day": "Le robot pose des questions sur la journée de l'utilisateur",
   "EXTERNAL_time_for_checking_calender": "Un robot rappelle un rendez-vous chez le médecin",
-
   "timestamp": "Horodatage",
   "fall_asleep_time": "Heure d'endormissement",
   "wakeup_time": "Heure du réveil",
