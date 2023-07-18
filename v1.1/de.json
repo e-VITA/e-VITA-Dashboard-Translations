@@ -559,5 +559,9 @@
   "measure_type": "Art der Messung",
   "temperature": "Temperatur",
   "ecg_type": "Typ Elektrokardiogramm (EKG)",
-  "voltage_datas": "Spannungsdaten"
+  "voltage_datas": "Spannungsdaten",
+
+  "insert_reminder_title_tooltip": "You can choose the title fot this reminder",
+  "insertTitle": "Insert Reminder Title",
+  "insertReminderTitle": "Reminder Title"
 }

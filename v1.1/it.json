@@ -558,5 +558,9 @@
   "measure_type": "Tipo di misura",
   "temperature": "Temperatura",
   "ecg_type": "Tipo di elettrocardiogramma (ECG)",
-  "voltage_datas": "Dati di tensione"
+  "voltage_datas": "Dati di tensione",
+
+  "insert_reminder_title_tooltip": "Puoi scegliere il titolo per questo promemoria",
+  "insertTitle": "Inserisci titolo promemoria",
+  "insertReminderTitle": "Titolo promemoria"
 }
