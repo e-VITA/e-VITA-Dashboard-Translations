@@ -475,7 +475,6 @@
   "notification_delay": "Délai de notification",
   "notification_delay_descr": "Intervalle de temps pendant lequel les notifications reçues sont vérifiées",
   "notification_delay_change": "Intervalle de notification correctement mis à jour",
-
   "loading": "Chargement des données...",
   "leaderboard": "Classement",
   "usersCompetition": "Concours Utilisateurs",
@@ -555,7 +554,6 @@
   "temperature": "Température",
   "ecg_type": "Type d'électrocardiogramme (ECG)",
   "voltage_datas": "Données de tension",
-
   "insert_reminder_title_tooltip": "Vous pouvez choisir le titre de ce rappel",
   "insertTitle": "Insérer le titre du rappel",
   "insertReminderTitle": "Titre du rappel"

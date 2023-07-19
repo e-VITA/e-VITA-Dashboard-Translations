@@ -475,7 +475,6 @@
   "notification_delay": "Verzögerung der Benachrichtigung",
   "notification_delay_descr": "Zeitintervall, in dem eingegangene Meldungen geprüft werden",
   "notification_delay_change": "Benachrichtigungsintervall korrekt aktualisiert",
-
   "loading": "Daten werden geladen...",
   "leaderboard": "Rangliste",
   "usersCompetition": "Benutzerwettbewerb",
@@ -555,7 +554,6 @@
   "temperature": "Temperatur",
   "ecg_type": "Typ Elektrokardiogramm (EKG)",
   "voltage_datas": "Spannungsdaten",
-
   "insert_reminder_title_tooltip": "You can choose the title fot this reminder",
   "insertTitle": "Insert Reminder Title",
   "insertReminderTitle": "Reminder Title"

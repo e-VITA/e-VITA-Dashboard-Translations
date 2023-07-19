@@ -475,7 +475,6 @@
   "notification_delay": "Intervallo di notifica",
   "notification_delay_descr": "Intervallo di tempo in cui vengono controllate le notifiche ricevute",
   "notification_delay_change": "Intervallo di Notifica correttamente aggiornato",
-
   "loading": "Caricamento dati...",
   "leaderboard": "Classifica",
   "usersCompetition": "Concorso utenti",
@@ -555,7 +554,6 @@
   "temperature": "Temperatura",
   "ecg_type": "Tipo di elettrocardiogramma (ECG)",
   "voltage_datas": "Dati di tensione",
-
   "insert_reminder_title_tooltip": "Puoi scegliere il titolo per questo promemoria",
   "insertTitle": "Inserisci titolo promemoria",
   "insertReminderTitle": "Titolo promemoria"
