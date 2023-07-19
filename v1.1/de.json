@@ -471,8 +471,11 @@
   "X": "X",
   "frequencyDescription": "Zeitintervall (Minuten), wie oft die Plattform die Messungen aus der Cloud liest",
   "select_language_rasa": "Seleziona la lingua con la quale dialogare con il Dialogue Manager",
+  "rasa_language_selected": "Die Verwendungssprache wurde geändert",
   "notification_delay": "Verzögerung der Benachrichtigung",
   "notification_delay_descr": "Zeitintervall, in dem eingegangene Meldungen geprüft werden",
+  "notification_delay_change": "Benachrichtigungsintervall korrekt aktualisiert",
+
   "loading": "Daten werden geladen...",
   "leaderboard": "Rangliste",
   "usersCompetition": "Benutzerwettbewerb",
