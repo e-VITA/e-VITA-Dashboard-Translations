@@ -475,7 +475,6 @@
   "notification_delay": "Verzögerung der Benachrichtigung",
   "notification_delay_descr": "Zeitintervall, in dem eingegangene Meldungen geprüft werden",
   "notification_delay_change": "Benachrichtigungsintervall korrekt aktualisiert",
-
   "loading": "Daten werden geladen...",
   "leaderboard": "Rangliste",
   "usersCompetition": "Benutzerwettbewerb",
@@ -558,5 +557,13 @@
 
   "insert_reminder_title_tooltip": "Sie können den Titel für diese Erinnerung auswählen",
   "insertTitle": "Erinnerungstitel einfügen",
-  "insertReminderTitle": "Erinnerungstitel"
+  "insertReminderTitle": "Erinnerungstitel",
+  "reminderTitle":"Erinnerungsname",
+  "Personal Info":"Persönliche Informationen",
+  "Medical Info":"Medizinische Informationen",
+  "Reminders":"Erinnerungen",
+  "Perseo Rules":"Perseus Regeln",
+  "Leaderboard":"Bestenlisten",
+  "Settings":"Einstellungen",
+  "rasaURLSettingSuccess":"Rasa-URL aktualisiert"
 }
