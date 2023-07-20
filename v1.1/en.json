@@ -587,7 +587,7 @@
   "settingsPageDescription": "Select the desired URL for conversation with the RASA system",
   "URLsList": "List of available URLs",
 
-  "insert_reminder_title_tooltip": "Sie können den Titel für diese Erinnerung auswählen",
-  "insertTitle": "Erinnerungstitel einfügen",
-  "insertReminderTitle": "Erinnerungstitel"
+  "insert_reminder_title_tooltip": "You can choose the title fot this reminder",
+  "insertTitle": "Insert Reminder Title",
+  "insertReminderTitle": "Reminder Title"
 }

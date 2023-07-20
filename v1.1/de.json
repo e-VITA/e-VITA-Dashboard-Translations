@@ -556,7 +556,7 @@
   "ecg_type": "Typ Elektrokardiogramm (EKG)",
   "voltage_datas": "Spannungsdaten",
 
-  "insert_reminder_title_tooltip": "You can choose the title fot this reminder",
-  "insertTitle": "Insert Reminder Title",
-  "insertReminderTitle": "Reminder Title"
+  "insert_reminder_title_tooltip": "Sie können den Titel für diese Erinnerung auswählen",
+  "insertTitle": "Erinnerungstitel einfügen",
+  "insertReminderTitle": "Erinnerungstitel"
 }
