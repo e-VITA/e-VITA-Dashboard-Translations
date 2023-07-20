@@ -556,5 +556,12 @@
   "voltage_datas": "Données de tension",
   "insert_reminder_title_tooltip": "Vous pouvez choisir le titre de ce rappel",
   "insertTitle": "Insérer le titre du rappel",
-  "insertReminderTitle": "Titre du rappel"
+  "insertReminderTitle": "Titre du rappel",
+  "Personal Info":"Informations personnelles",
+  "Medical Info":"Informations médicales",
+  "Reminders":"Rappels",
+  "Perseo Rules":"Règles de Persée",
+  "Leaderboard":"Classements",
+  "Settings":"Paramètres",
+  "rasaURLSettingSuccess":"URL Rasa mise à jour"
 }

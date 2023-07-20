@@ -556,5 +556,12 @@
     "URLsList": "List of available URLs",
     "insert_reminder_title_tooltip": "Sie können den Titel für diese Erinnerung auswählen",
     "insertTitle": "Erinnerungstitel einfügen",
-    "insertReminderTitle": "Erinnerungstitel"
+    "insertReminderTitle": "Erinnerungstitel",
+    "Personal Info":"Personal Info",
+    "Medical Info":"Medical Info",
+    "Reminders":"Reminders",
+    "Perseo Rules":"Perseo Rules",
+    "Leaderboard":"Leaderboard",
+    "Settings":"Settings",
+    "rasaURLSettingSuccess":"Rasa URL updated"
 }
