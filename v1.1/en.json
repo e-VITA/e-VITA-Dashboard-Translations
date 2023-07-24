@@ -554,6 +554,8 @@
     "settingsPageTitle": "Set Settings Page",
     "settingsPageDescription": "Select the desired URL for conversation with the RASA system",
     "URLsList": "List of available URLs",
+    "rasaURLSettingSuccess":"Rasa URL updated",
+    "resetSetting": "Reset Settings",
     "insert_reminder_title_tooltip": "You can choose the title for this Reminder",
     "insertTitle": "Insert Reminder name",
     "insertReminderTitle": "Reminder name",
@@ -563,6 +565,5 @@
     "Reminders":"Reminders",
     "Perseo Rules":"Perseo Rules",
     "Leaderboard":"Leaderboard",
-    "Settings":"Settings",
-    "rasaURLSettingSuccess":"Rasa URL updated"
+    "Settings":"Settings"
 }

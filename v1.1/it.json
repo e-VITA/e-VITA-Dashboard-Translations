@@ -554,6 +554,11 @@
   "temperature": "Temperatura",
   "ecg_type": "Tipo di elettrocardiogramma (ECG)",
   "voltage_datas": "Dati di tensione",
+  "settingsPageTitle": "Imposta pagina delle impostazioni",
+  "settingsPageDescription": "Seleziona l'URL desiderato per la conversazione con il sistema RASA",
+  "URLsList": "Elenco degli URL disponibili",
+  "rasaURLSettingSuccess":"URL Rasa aggiornato",
+  "resetSetting": "Ripristina impostazioni",
   "insert_reminder_title_tooltip": "Puoi scegliere il titolo per questo promemoria",
   "insertTitle": "Inserisci titolo promemoria",
   "insertReminderTitle": "Nome promemoria",
@@ -563,6 +568,5 @@
   "Reminders":"Promemoria",
   "Perseo Rules":"Regole Perseo",
   "Leaderboard":"Classifiche",
-  "Settings":"Impostazioni",
-  "rasaURLSettingSuccess":"Rasa URL modificato"
+  "Settings":"Impostazioni"
 }

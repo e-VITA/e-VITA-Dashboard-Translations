@@ -554,7 +554,11 @@
   "temperature": "Temperatur",
   "ecg_type": "Typ Elektrokardiogramm (EKG)",
   "voltage_datas": "Spannungsdaten",
-
+  "settingsPageTitle": "Seite mit Einstellungen festlegen",
+  "settingsPageDescription": "Wählen Sie die gewünschte URL für die Konversation mit dem RASA-System aus",
+  "URLsList": "Liste verfügbarer URLs",
+  "rasaURLSettingSuccess": "Rasa-URL aktualisiert",
+  "resetSetting": "Einstellungen zurücksetzen",
   "insert_reminder_title_tooltip": "Sie können den Titel für diese Erinnerung auswählen",
   "insertTitle": "Erinnerungstitel einfügen",
   "insertReminderTitle": "Erinnerungstitel",
@@ -564,6 +568,5 @@
   "Reminders":"Erinnerungen",
   "Perseo Rules":"Perseus Regeln",
   "Leaderboard":"Bestenlisten",
-  "Settings":"Einstellungen",
-  "rasaURLSettingSuccess":"Rasa-URL aktualisiert"
+  "Settings":"Einstellungen"
 }
