@@ -555,7 +555,7 @@
     "settingsPageDescription": "Select the desired URL for conversation with the RASA system",
     "URLsList": "List of available URLs",
     "rasaURLSettingSuccess":"Rasa URL updated",
-    "resetSetting": "Reset Settings",
+    "resetSetting": "Reset",
     "insert_reminder_title_tooltip": "You can choose the title for this Reminder",
     "insertTitle": "Insert Reminder name",
     "insertReminderTitle": "Reminder name",

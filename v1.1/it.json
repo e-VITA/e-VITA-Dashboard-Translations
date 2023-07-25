@@ -557,7 +557,7 @@
   "settingsPageDescription": "Seleziona l'URL desiderato per la conversazione con il sistema RASA",
   "URLsList": "Elenco degli URL disponibili",
   "rasaURLSettingSuccess":"URL Rasa aggiornato",
-  "resetSetting": "Ripristina impostazioni",
+  "resetSetting": "Ripristina",
   "insert_reminder_title_tooltip": "Puoi scegliere il nome per questo promemoria",
   "insertTitle": "Inserisci nome promemoria",
   "insertReminderTitle": "Nome promemoria",
