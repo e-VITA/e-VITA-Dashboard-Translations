@@ -468,7 +468,6 @@
   "perseoExerciseRules": "Configuration de règles basée sur Perseo Sensor",
   "generate": "Générer",
   "selectCoach": "Sélectionnez votre coach",
-  "X": "X",
   "frequencyDescription": "Intervalle de temps (minutes) fréquence à laquelle la plateforme lit les mesures à partir du nuage",
   "select_language_rasa": "Sélectionnez la langue dans laquelle vous souhaitez dialoguer avec le Dialogue Manager",
   "rasa_language_selected": "La langue d'utilisation a été modifiée",
@@ -568,5 +567,7 @@
   "Reminders": "Rappels",
   "Perseo Rules": "Règles de Persée",
   "Leaderboard": "Classements",
-  "Settings": "Paramètres"
+  "Settings": "Paramètres",
+  "perseoTitle":"Règles Perséo",
+  "ruleName":"Nom Règle"
 }

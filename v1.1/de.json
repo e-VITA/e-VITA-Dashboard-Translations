@@ -468,7 +468,6 @@
   "perseoExerciseRules": "Perseo Sensor-basierte Regeleinrichtung",
   "generate": "Generieren",
   "selectCoach": "Wählen Sie Ihren Trainer aus",
-  "X": "X",
   "frequencyDescription": "Zeitintervall (Minuten), wie oft die Plattform die Messungen aus der Cloud liest",
   "select_language_rasa": "Seleziona la lingua con la quale dialogare con il Dialogue Manager",
   "rasa_language_selected": "Die Verwendungssprache wurde geändert",
@@ -568,5 +567,7 @@
   "Reminders":"Erinnerungen",
   "Perseo Rules":"Perseus Regeln",
   "Leaderboard":"Bestenlisten",
-  "Settings":"Einstellungen"
+  "Settings":"Einstellungen",
+  "perseoTitle":"Perseo-Regeln",
+  "ruleName":"Regelname"
 }
