@@ -558,7 +558,7 @@
   "settingsPageDescription": "Sélectionnez l'URL souhaitée pour la conversation avec le système RASA",
   "URLsList": "Liste des URL disponibles",
   "rasaURLSettingSuccess": "URL Rasa mise à jour",
-  "resetSetting": "Réinitialiser les paramètres",
+  "resetSetting": "Réinitialiser",
   "insert_reminder_title_tooltip": "Vous pouvez choisir le titre de ce rappel",
   "insertTitle": "Insérer le nom du rappel",
   "insertReminderTitle": "Nom du rappel",
