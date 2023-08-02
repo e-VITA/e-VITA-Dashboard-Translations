@@ -565,5 +565,7 @@
     "Reminders":"Reminders",
     "Perseo Rules":"Perseo Rules",
     "Leaderboard":"Leaderboard",
-    "Settings":"Settings"
+    "Settings":"Settings",
+    "perseoTitle":"Perseo Rules",
+    "ruleName":"Rule Name"
 }

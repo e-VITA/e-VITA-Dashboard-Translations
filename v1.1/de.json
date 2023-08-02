@@ -468,7 +468,6 @@
   "perseoExerciseRules": "Perseo Sensor-basierte Regeleinrichtung",
   "generate": "Generieren",
   "selectCoach": "Wählen Sie Ihren Trainer aus",
-  "X": "X",
   "frequencyDescription": "Zeitintervall (Minuten), wie oft die Plattform die Messungen aus der Cloud liest",
   "select_language_rasa": "Seleziona la lingua con la quale dialogare con il Dialogue Manager",
   "rasa_language_selected": "Die Verwendungssprache wurde geändert",
@@ -558,7 +557,7 @@
   "settingsPageDescription": "Wählen Sie die gewünschte URL für die Konversation mit dem RASA-System aus",
   "URLsList": "Liste verfügbarer URLs",
   "rasaURLSettingSuccess": "Rasa-URL aktualisiert",
-  "resetSetting": "Einstellungen",
+  "resetSetting": "Zurücksetzen",
   "insert_reminder_title_tooltip": "Sie können den Titel für diese Erinnerung auswählen",
   "insertTitle": "Erinnerungstitel einfügen",
   "insertReminderTitle": "Erinnerungstitel",
@@ -568,5 +567,7 @@
   "Reminders":"Erinnerungen",
   "Perseo Rules":"Perseus Regeln",
   "Leaderboard":"Bestenlisten",
-  "Settings":"Einstellungen"
+  "Settings":"Einstellungen",
+  "perseoTitle":"Perseo-Regeln",
+  "ruleName":"Regelname"
 }
