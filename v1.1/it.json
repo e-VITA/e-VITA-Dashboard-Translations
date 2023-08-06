@@ -553,7 +553,7 @@
   "temperature": "Temperatura",
   "ecg_type": "Tipo di elettrocardiogramma (ECG)",
   "voltage_datas": "Dati di tensione",
-  "settingsPageTitle": "Imposta pagina delle impostazioni",
+  "settingsPageTitle": "Pagina delle impostazioni",
   "settingsPageDescription": "Seleziona l'URL desiderato per la conversazione con il sistema RASA",
   "URLsList": "Elenco degli URL disponibili",
   "rasaURLSettingSuccess":"URL Rasa aggiornato",
