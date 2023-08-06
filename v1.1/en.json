@@ -567,5 +567,6 @@
     "Leaderboard":"Leaderboard",
     "Settings":"Settings",
     "perseoTitle":"Perseo Rules",
-    "ruleName":"Rule Name"
+    "ruleName":"Rule Name",
+    "dashboardDeviceDescription":"Device accessible via the web interface, with which it is possible to communicate with the Dialogue system via the Dialogue manager menu page"
 }
