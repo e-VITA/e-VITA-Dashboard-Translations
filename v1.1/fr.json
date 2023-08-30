@@ -478,6 +478,10 @@
   "leaderboard": "Classement",
   "usersCompetition": "Concours Utilisateurs",
   "usersCompetitionList": "Liste des meilleurs utilisateurs",
+  "usersCompetitionWeek": "Concours hebdomadaire des utilisateurs",
+  "usersCompetitionWeekList": "Liste des meilleurs utilisateurs hebdomadaires",
+  "usersCompetitionTotal": "Concurrence totale des utilisateurs",
+  "usersCompetitionTotalList": "Liste des meilleurs utilisateurs depuis le début",
   "rang": "Rang",
   "region": "Région",
   "achievement": "Réussite",
@@ -568,6 +572,6 @@
   "Perseo Rules": "Règles de Persée",
   "Leaderboard": "Classements",
   "Settings": "Paramètres",
-  "perseoTitle":"Règles Perséo",
-  "ruleName":"Nom Règle"
+  "perseoTitle": "Règles Perséo",
+  "ruleName": "Nom Règle"
 }
