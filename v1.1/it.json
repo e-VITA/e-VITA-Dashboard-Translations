@@ -572,5 +572,6 @@
   "Leaderboard":"Classifiche",
   "Settings":"Impostazioni",
   "perseoTitle":"Regole Perseo",
-  "ruleName":"Nome Regola"
+  "ruleName":"Nome Regola",
+  "dashboardDeviceDescription":"Dispositivo accessibile tramite interfaccia web, con il quale è possibile dialogare con il Dialogue system tramite la pagina del menù Dialogue manager"
 }

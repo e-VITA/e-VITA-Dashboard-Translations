@@ -573,5 +573,6 @@
   "Leaderboard":"Bestenlisten",
   "Settings":"Einstellungen",
   "perseoTitle":"Perseo-Regeln",
-  "ruleName":"Regelname"
+  "ruleName":"Regelname",
+  "dashboardDeviceDescription":"Über das Webinterface erreichbares Gerät, mit dem über die Menüseite des Dialogue Manager mit dem Dialogsystem kommuniziert werden kann"
 }

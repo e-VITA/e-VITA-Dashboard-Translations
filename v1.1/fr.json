@@ -572,6 +572,7 @@
   "Perseo Rules": "Règles de Persée",
   "Leaderboard": "Classements",
   "Settings": "Paramètres",
-  "perseoTitle": "Règles Perséo",
-  "ruleName": "Nom Règle"
+  "perseoTitle":"Règles Perséo",
+  "ruleName":"Nom Règle",
+  "dashboardDeviceDescription":"Dispositif accessible via l'interface web, qui peut être utilisé pour communiquer avec le Dialogue système via la page de menu du Dialogue Manager"
 }
