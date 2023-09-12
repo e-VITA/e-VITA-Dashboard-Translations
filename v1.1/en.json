@@ -572,5 +572,9 @@
     "Settings":"Settings",
     "perseoTitle":"Perseo Rules",
     "ruleName":"Rule Name",
-    "dashboardDeviceDescription":"Device accessible via the web interface, with which it is possible to communicate with the Dialogue system via the Dialogue manager menu page"
+    "dashboardDeviceDescription":"Device accessible via the web interface, with which it is possible to communicate with the Dialogue system via the Dialogue manager menu page",
+    "useCaseConfigurator":"Use Case Configurator",
+    "religion":"Religion",
+    "goalLabel":"Goal\/s",
+    "sleepMonitoring":"Does the user wish to monitor his\/her sleep?"
 }
