@@ -573,8 +573,24 @@
     "perseoTitle":"Perseo Rules",
     "ruleName":"Rule Name",
     "dashboardDeviceDescription":"Device accessible via the web interface, with which it is possible to communicate with the Dialogue system via the Dialogue manager menu page",
+    
     "useCaseConfigurator":"Use Case Configurator",
-    "religion":"Religion",
-    "goalLabel":"Goal\/s",
-    "sleepMonitoring":"Does the user wish to monitor his\/her sleep?"
+    "UCCage":"Please select the user's age",
+    "UCCgender":"Select the user's gender",
+    "UCCcountryLabel":"Select the user's country",
+    "religion":"Select the user's religion",
+    "goalLabel":"Select the user's goal\/s",
+    "sleepMonitoring":"Does the user wish to monitor his\/her sleep?",
+    "liveAlone":"Does the user live alone or with someone?",
+    "sensorsAgree":"Does the user agree to the use of non-invasive stationary sensors?",
+    "wearDevice":"Would the user wear a wearable device?",
+    "favoriteDevice":"What does the user prefer to use?",
+    "select_house_rooms":"Please select the rooms in the house and their number:",
+    "kitchen":"KITCHEN",
+    "living_room":"LIVING ROOM",
+    "master_bedroom":"MASTER BEDROOM",
+    "bathroom":"BATHROOM",
+    "hobby_room":"HOBBY ROOM",
+    "hall":"HALL",
+    "computeConfiguration":"COMPUTE THE CONFIGURATION"
 }
