@@ -596,5 +596,6 @@
   "hall": "HALLE",
   "computeConfiguration": "BERECHNEN SIE DIE KONFIGURATION",
   "goalNotSelectedError": "Sie müssen zuerst einige Ziele auswählen",
-  "countryNotSelectedError": "Sie müssen zuerst ein Land auswählen"
+  "countryNotSelectedError": "Sie müssen zuerst ein Land auswählen",
+  "uccResult": "Ergebnis des Use Case Configurators"
 }

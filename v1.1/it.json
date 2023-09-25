@@ -595,5 +595,6 @@
   "hall": "SALONE",
   "computeConfiguration": "CALCOLA LA CONFIGURAZIONE",
   "goalNotSelectedError": "Devi prima selezionare alcuni obiettivi",
-  "countryNotSelectedError": "Devi prima selezionare un paese"
+  "countryNotSelectedError": "Devi prima selezionare un paese",
+  "uccResult": "Risultato del configuratore dei casi d'uso"
 }
