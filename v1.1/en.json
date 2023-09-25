@@ -592,5 +592,7 @@
     "bathroom":"BATHROOM",
     "hobby_room":"HOBBY ROOM",
     "hall":"HALL",
-    "computeConfiguration":"COMPUTE THE CONFIGURATION"
+    "computeConfiguration":"COMPUTE THE CONFIGURATION",
+    "goalNotSelectedError":"You must select some goals first",
+    "countryNotSelectedError":"You must select a country first"
 }
