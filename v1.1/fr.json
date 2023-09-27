@@ -597,5 +597,11 @@
   "computeConfiguration": "CALCULER LA CONFIGURATION",
   "goalNotSelectedError": "Vous devez d'abord sélectionner certains objectifs",
   "countryNotSelectedError": "Vous devez d'abord sélectionner un pays",
-  "uccResult": "Résultat du configurateur de cas d'utilisation"
+  "uccResult": "Résultat du configurateur de cas d'utilisation",
+  "_christianity_": "Christianisme",
+  "_buddhism_": "Bouddhisme",
+  "_shintoism_": "Shintoïste",
+  "_none_": "Aucun",
+  "Lives_Alone": "L'utilisateur vit seul",
+  "With_Other_People": "L'utilisateur vit avec d'autres personnes"
 }

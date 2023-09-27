@@ -588,7 +588,7 @@
   "wearDevice": "Würde der Benutzer ein tragbares Gerät tragen?",
   "favoriteDevice": "Was verwendet der Benutzer am liebsten?",
   "select_house_rooms": "Bitte wählen Sie die Zimmer im Haus und deren Anzahl aus:",
-  "kitchen": "KÜCHE",
+  "": "KÜCHE",
   "living_room": "WOHNZIMMER",
   "master_schlafzimmer": "HAUPTSCHLAFZIMMER",
   "bathroom": "BADEZIMMER",
@@ -597,5 +597,11 @@
   "computeConfiguration": "BERECHNEN SIE DIE KONFIGURATION",
   "goalNotSelectedError": "Sie müssen zuerst einige Ziele auswählen",
   "countryNotSelectedError": "Sie müssen zuerst ein Land auswählen",
-  "uccResult": "Ergebnis des Use Case Configurators"
+  "uccResult": "Ergebnis des Use Case Configurators",
+  "_christianity_": "Christentum",
+  "_buddhism_": "Buddhismus",
+  "_shintoism_": "Shintoismus",
+  "_none_": "Keine",
+  "Lives_Alone": "Der Benutzer lebt alleine",
+  "With_Other_People": "Der Benutzer lebt mit anderen Menschen zusammen"
 }
