@@ -601,6 +601,8 @@
     "_shintoism_":"Shintoism",
     "_none_":"None",
     "Lives_Alone":"The user lives alone",
-    "With_Other_People":"The user lives with other people"
+    "With_Other_People":"The user lives with other people",
+    "uccSuccess": "Response from Use Case Configurator obtained successfully",
+    "uccError": "Communication error with the Use Case Configurator"
 
 }

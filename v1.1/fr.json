@@ -603,5 +603,7 @@
   "_shintoism_": "Shintoïste",
   "_none_": "Aucun",
   "Lives_Alone": "L'utilisateur vit seul",
-  "With_Other_People": "L'utilisateur vit avec d'autres personnes"
+  "With_Other_People": "L'utilisateur vit avec d'autres personnes",
+  "uccSuccess": "Réponse du configurateur de cas d'utilisation obtenue avec succès",
+  "uccError": "Erreur de communication avec le configurateur de cas d'utilisation"
 }
