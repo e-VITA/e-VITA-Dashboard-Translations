@@ -603,5 +603,7 @@
   "_shintoism_": "Shintoismus",
   "_none_": "Keine",
   "Lives_Alone": "Der Benutzer lebt alleine",
-  "With_Other_People": "Der Benutzer lebt mit anderen Menschen zusammen"
+  "With_Other_People": "Der Benutzer lebt mit anderen Menschen zusammen",
+  "uccSuccess": "Antwort vom Anwendungsfallkonfigurator erfolgreich erhalten",
+  "uccError": "Kommunikationsfehler mit dem Anwendungsfallkonfigurator"
 }
