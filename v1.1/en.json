@@ -625,7 +625,7 @@
     "External_tunemusic": "Robot starts dialog about music",
 
     "External_use_emilia_app_long": "Robot starts dialogue long description about app",
-	"External_use_emilia_app_short": "Robot starts dialogue long description about app",
+	"External_use_emilia_app_short": "Robot starts dialogue short description about app",
 	"External_request_if_eat_junk_food_to_fit_in": "Robot asks user if they eat junk food to fit in",
 	"External_ask_about_best_dish_today": "Robot asks what was the best dish today",
 	"External_request_if_like_tea_coffee": "Robot asks user if they like tea or coffee",
