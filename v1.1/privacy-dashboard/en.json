@@ -192,7 +192,9 @@
       "noServiceIdOperatorLink": "No Service Id specified while linking from CaPe",
       "servicelink_disabled_message": "Service Link with Service: {{serviceName}} has been disabled",
       "servicelink_enabled_message": "Service Link with Service: {{serviceName}} has been enabled",
-      "type":"Type"
+      "type":"Type",
+      "date":"Date",
+      "message":"Message"
     },
     "linked_services": {
       "services_linked_to_me": "Services linked to me",

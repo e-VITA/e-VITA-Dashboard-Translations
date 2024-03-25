@@ -191,7 +191,9 @@
       "noServiceIdOperatorLink": "CaPeからの接続時にサービスIDが指定されていません",
       "servicelink_disabled_message": "サービス {{serviceName}} との連携が無効になりました",
       "servicelink_enabled_message": "サービス {{serviceName}} との連携が有効になりました",
-      "type": "種別"
+      "type": "種別",
+      "date":"日付",
+      "message":"メッセージ"
     },
     "linked_services": {
       "services_linked_to_me": "連携サービス",

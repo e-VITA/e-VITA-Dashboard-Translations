@@ -191,7 +191,9 @@
       "noServiceIdOperatorLink": "Nessun Service Id specificato durante il collegamento da CaPe",
       "servicelink_disabled_message": "Il collegamento con il Servizio {{serviceName}} è stato disabilitato",
       "servicelink_enabled_message": "Il collegamento con il Servizio {{serviceName}} è stato abilitato",
-      "type":"Tipo"
+      "type":"Tipo",
+      "date":"Data",
+      "message":"Messaggio"
     },
     "linked_services": {
       "services_linked_to_me": "Servizi collegati a me",
