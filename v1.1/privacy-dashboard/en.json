@@ -9,6 +9,8 @@
     "close": "Close",
     "cancel": "Cancel",
     "dashboard": {
+      "homeTitle":"My homepage",
+      "homeSubTitle":"Here you can see an overview of your processed data and the services",
       "statusCards": {
         "availableServices": "Available Services",
         "linkedServices": "Service linked with you",
@@ -24,7 +26,7 @@
       }
     },
     "menu": {
-      "dashboard": "Dashboard",
+      "dashboard": "Dashboard", 
       "consents_logs_group": "CONSENTS & LOGS",
       "data_event_logs": "Data & Event Logs",
       "consents": "Data Consents",
@@ -37,7 +39,9 @@
       "sign_out": "Sign out",
       "logs": "Data Logs",
       "connectors": "Connectors",
-      "account": "Account"
+      "account": "Account",
+      "changes": "Recent changes",
+      "homepage": "Homepage"
     },
     "consents": {
       "no_consent_message": "No Consent found!",

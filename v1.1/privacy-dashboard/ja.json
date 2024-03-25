@@ -9,6 +9,8 @@
     "close": "閉じる",
     "cancel": "キャンセル",
     "dashboard": {
+      "homeTitle":"私のホームページ",
+      "homeSubTitle":"ここでは、処理されたデータとサービスの概要を確認できます。",
       "statusCards": {
         "availableServices": "利用可能なサービス",
         "linkedServices": "連携サービス",
@@ -37,7 +39,9 @@
       "sign_out": "ログアウト",
       "logs": "データログ",
       "connectors": "コネクター",
-      "account": "アカウント"
+      "account": "アカウント",
+      "changes": "最近の変化",
+      "homepage": "ホームページ"
     },
     "consents": {
       "no_consent_message": "同意が見つかりませんでした",

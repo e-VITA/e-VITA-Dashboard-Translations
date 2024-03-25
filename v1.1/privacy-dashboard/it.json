@@ -9,6 +9,8 @@
     "close": "Chiudi",
     "cancel": "Annulla",
     "dashboard": {
+      "homeTitle":"My homepage",
+      "homeSubTitle":"Qui puoi vedere una panoramica dei tuoi dati elaborati e dei tuoi servizi",
       "statusCards": {
         "availableServices": "Servizi disponibili",
         "linkedServices": "Servizi collegati a te",
@@ -37,7 +39,9 @@
       "sign_out": "Disconnetti",
       "logs": "Attività",
       "connectors": "Connettori",
-      "account": "Account"
+      "account": "Account",
+      "changes": "Modifiche recenti",
+      "homepage": "Homepage"
     },
     "consents": {
       "no_consent_message": "Nessun Consenso trovato!",
